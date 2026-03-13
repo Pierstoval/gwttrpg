@@ -1,5 +1,3 @@
-# Guild Wars JDR
-
 # Description des règles
 
 ## Origine
