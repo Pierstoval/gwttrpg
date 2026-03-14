@@ -10,28 +10,28 @@ Sa caractéristique d'incantation est la Sagesse, reflet de sa connexion profond
 
 L'attribut principal du Moine dans Guild Wars est la **Faveur Divine**, qui traduit sa connexion privilégiée avec les dieux et amplifie l'efficacité de ses soins et protections. Cet attribut est représenté par une aptitude globale qui évolue avec le niveau.
 
-| Niveau | Bonus de maîtrise |                        Aptitudes                         | Sorts mineurs | 1e niv | 2e niv | 3e niv | 4e niv | 5e niv | 6e niv | 7e niv | 8e niv | 9e niv |
-|:------:|:-----------------:|:--------------------------------------------------------:|---------------|--------|--------|--------|--------|--------|--------|--------|--------|--------|
-|   1    |        +2         |                      Faveur divine                       | 3             | 2      |        |        |        |        |        |        |        |        |
-|   2    |        +2         |                                                          | 3             | 3      |        |        |        |        |        |        |        |        |
-|   3    |        +2         |                   Aptitude d'archétype                   | 3             | 4      | 2      |        |        |        |        |        |        |        |
-|   4    |        +2         |                      +2 à une carac                      | 4             | 4      | 3      |        |        |        |        |        |        |        |
-|   5    |        +3         |            Faveur divine 2, Aura de dévotion             | 4             | 4      | 3      | 2      |        |        |        |        |        |        |
-|   6    |        +3         |                      +2 à une carac                      | 4             | 4      | 3      | 3      |        |        |        |        |        |        |
-|   7    |        +3         |                 2 aptitudes d'archétype                  | 4             | 4      | 3      | 3      | 1      |        |        |        |        |        |
-|   8    |        +3         |                      +2 à une carac                      | 4             | 4      | 3      | 3      | 2      |        |        |        |        |        |
-|   9    |        +4         |           Faveur divine 3, Aura de dévotion 2            | 4             | 4      | 3      | 3      | 3      | 1      |        |        |        |        |
-|   10   |        +4         |                 3 aptitudes d'archétype                  | 5             | 4      | 3      | 3      | 3      | 2      |        |        |        |        |
-|   11   |        +4         |                    Résurgence sacrée                     | 5             | 4      | 3      | 3      | 3      | 2      | 1      |        |        |        |
-|   12   |        +4         |                      +2 à une carac                      | 5             | 4      | 3      | 3      | 3      | 2      | 1      |        |        |        |
-|   13   |        +5         |           Faveur divine 4, Aura de dévotion 3            | 5             | 4      | 3      | 3      | 3      | 2      | 1      | 1      |        |        |
-|   14   |        +5         |           +2 à une carac, Résurgence sacrée 2            | 5             | 4      | 3      | 3      | 3      | 2      | 1      | 1      |        |        |
-|   15   |        +5         |                 4 aptitudes d'archétype                  | 5             | 4      | 3      | 3      | 3      | 2      | 1      | 1      | 1      |        |
-|   16   |        +5         |                      +2 à une carac                      | 5             | 4      | 3      | 3      | 3      | 2      | 1      | 1      | 1      |        |
-|   17   |        +6         | Faveur divine 5, Aura de dévotion 4, Résurgence sacrée 3 | 5             | 4      | 3      | 3      | 3      | 2      | 1      | 1      | 1      | 1      |
-|   18   |        +6         |                 5 aptitudes d'archétype                  | 5             | 4      | 3      | 3      | 3      | 3      | 1      | 1      | 1      | 1      |
-|   19   |        +6         |                      +2 à une carac                      | 5             | 4      | 3      | 3      | 3      | 3      | 2      | 1      | 1      | 1      |
-|   20   |        +6         |                   Résurgence sacrée 4                    | 5             | 4      | 3      | 3      | 3      | 3      | 2      | 2      | 1      | 1      |
+| Niveau | Bonus de maîtrise |        Aptitudes        | Sorts mineurs | 1e niv | 2e niv | 3e niv | 4e niv | 5e niv | 6e niv | 7e niv | 8e niv | 9e niv |
+|:------:|:-----------------:|:-----------------------:|---------------|--------|--------|--------|--------|--------|--------|--------|--------|--------|
+|   1    |        +2         |      Faveur divine      | 3             | 2      |        |        |        |        |        |        |        |        |
+|   2    |        +2         |                         | 3             | 3      |        |        |        |        |        |        |        |        |
+|   3    |        +2         |  Aptitude d'archétype   | 3             | 4      | 2      |        |        |        |        |        |        |        |
+|   4    |        +2         |     +2 à une carac      | 4             | 4      | 3      |        |        |        |        |        |        |        |
+|   5    |        +3         |     Faveur divine 2     | 4             | 4      | 3      | 2      |        |        |        |        |        |        |
+|   6    |        +3         |     +2 à une carac      | 4             | 4      | 3      | 3      |        |        |        |        |        |        |
+|   7    |        +3         | 2 aptitudes d'archétype | 4             | 4      | 3      | 3      | 1      |        |        |        |        |        |
+|   8    |        +3         |     +2 à une carac      | 4             | 4      | 3      | 3      | 2      |        |        |        |        |        |
+|   9    |        +4         |     Faveur divine 3     | 4             | 4      | 3      | 3      | 3      | 1      |        |        |        |        |
+|   10   |        +4         | 3 aptitudes d'archétype | 5             | 4      | 3      | 3      | 3      | 2      |        |        |        |        |
+|   11   |        +4         |                         | 5             | 4      | 3      | 3      | 3      | 2      | 1      |        |        |        |
+|   12   |        +4         |     +2 à une carac      | 5             | 4      | 3      | 3      | 3      | 2      | 1      |        |        |        |
+|   13   |        +5         |     Faveur divine 4     | 5             | 4      | 3      | 3      | 3      | 2      | 1      | 1      |        |        |
+|   14   |        +5         |     +2 à une carac      | 5             | 4      | 3      | 3      | 3      | 2      | 1      | 1      |        |        |
+|   15   |        +5         | 4 aptitudes d'archétype | 5             | 4      | 3      | 3      | 3      | 2      | 1      | 1      | 1      |        |
+|   16   |        +5         |     +2 à une carac      | 5             | 4      | 3      | 3      | 3      | 2      | 1      | 1      | 1      |        |
+|   17   |        +6         |     Faveur divine 5     | 5             | 4      | 3      | 3      | 3      | 2      | 1      | 1      | 1      | 1      |
+|   18   |        +6         | 5 aptitudes d'archétype | 5             | 4      | 3      | 3      | 3      | 3      | 1      | 1      | 1      | 1      |
+|   19   |        +6         |     +2 à une carac      | 5             | 4      | 3      | 3      | 3      | 3      | 2      | 1      | 1      | 1      |
+|   20   |        +6         |                         | 5             | 4      | 3      | 3      | 3      | 3      | 2      | 2      | 1      | 1      |
 
 ## Points de vie
 
@@ -64,39 +64,25 @@ Vous débutez avec l'équipement suivant, en plus de tout matériel conféré pa
 
 ### Faveur divine
 
-La Faveur Divine traduit la connexion privilégiée du Moine avec les puissances divines, amplifiant ses soins et
-protections au-delà de ce qu'un simple clerc pourrait accomplir.
+La Faveur Divine traduit la connexion privilégiée du Moine avec les puissances divines, amplifiant ses soins et protections au-delà de ce qu'un simple clerc pourrait accomplir.
 
-Lorsque vous lancez un sort qui restaure des points de vie à une créature, celle-ci regagne un nombre de PV
-supplémentaires indiqué dans la table ci-dessous.
+Vous bénéficiez d'un avantage aux jets de sauvegarde de Sagesse contre les sorts et effets qui tenteraient de vous charmer ou de vous effrayer.
 
-| Niveau | PV supplémentaires par sort de soin |
-|--------|:------------------------------------|
-| 1      | + votre mod SAG                     |
-| 5      | + votre mod SAG + votre BM          |
-| 9      | + 2 × votre mod SAG + votre BM      |
-| 13     | + 2 × votre mod SAG + 2 × votre BM  |
-| 17     | + 3 × votre mod SAG + 2 × votre BM  |
+Vous bénéficiez également d'un avantage à tous les jets d'attaque, magiques ou non, contre les créatures mort-vivantes, aberrations, démons, et monstruosités.
 
-De plus, vous avez l'avantage aux jets de sauvegarde de Sagesse contre les sorts et effets qui tenteraient de vous
-charmer ou de vous effrayer.
+De plus, lorsque vous lancez un sort avec un effet bénéfique sur une créature alliée, celle-ci regagne un nombre de PV équivalent à votre Bonus de maîtrise additionné de votre modificateur de Sagesse.
 
-### Aura de dévotion
+### Aura sacrée
 
-À partir du niveau 5, une aura divine émane de vous. Vous et vos alliés à moins de 3 mètres de vous avez la
-résistance aux dégâts nécrotiques.
+À partir du niveau 5, vous et vos alliés à moins de 3 mètres de vous êtes entourés par une aura sacrée :
 
-| Niveau | Rayon de l'aura | Effet supplémentaire                                                    |
-|--------|:----------------|:------------------------------------------------------------------------|
-| 5      | 3 mètres        | Résistance aux dégâts nécrotiques                                       |
-| 9      | 6 mètres        | +1 aux JS contre les sorts                                              |
-| 13     | 9 mètres        | +2 aux JS contre les sorts                                              |
-| 17     | 12 mètres       | +3 aux JS contre les sorts, résistance aux dégâts nécrotiques et poison |
+- Vous obtenez une résistance aux dégâts nécrotiques.
+- Vous bénéficiez d'un bonus à tous vos JS contre les sorts équivalent à votre BM.
+- Vous doublez les dégâts d'attaques non-magiques contre les créatures mort-vivantes, aberrations, démons, et monstruosités.
 
-### Résurgence sacrée
+### Chant de résurrection
 
-À partir du niveau 11, une fois entre deux repos courts, lorsqu'un allié à moins de 18 mètres de vous tombe à 0 PV,
-vous pouvez utiliser votre réaction pour le ramener à un nombre de PV égal à votre niveau de Moine.
+À partir du niveau 11, une fois entre deux repos courts, lorsqu'un allié à moins de 18 mètres de vous tombe à 0 PV ou moins, vous pouvez utiliser votre réaction pour le ramener à un nombre de PV égal à deux fois votre niveau de Moine.
 
 | Niveau | Utilisations entre deux repos courts |
 |--------|:-------------------------------------|
@@ -115,49 +101,45 @@ vous pouvez utiliser votre réaction pour le ramener à un nombre de PV égal à
 
 ### Prières de guérison
 
-Les Prières de Guérison se concentrent sur la restauration et la régénération. Le Moine guérisseur est le soigneur
-ultime, capable de ramener ses alliés du bord de la mort et de maintenir le groupe en vie dans les situations les
-plus désespérées.
+Les Prières de Guérison se concentrent sur la restauration et la régénération.
 
-| Niveau | Aptitude                 |
-|--------|:-------------------------|
-| 3      | Oraison de guérison      |
-| 7      | Brise de soin            |
-| 10     | Baiser de Dwayna         |
-| 15     | Mot de guérison suprême  |
-| 18     | Lumière de la délivrance |
+| Niveau | Aptitude           |
+|--------|:-------------------|
+| 3      | Mot de Guérison    |
+| 7      | Guérison de groupe |
+| 10     | Baiser de Dwayna   |
+| 15     | Hâte sacrée        |
+| 18     | Lumière de Dwayna  |
 
-#### Oraison de guérison
+#### Mot de Guérison
 
-Vous apprenez le sort mineur Stabilisation s'il ne fait pas déjà partie de vos sorts connus. De plus, lorsque vous
-lancez un sort de soin sur une créature, si celle-ci est en dessous de la moitié de ses PV maximum, les PV restaurés
-sont augmentés d'un montant égal à votre modificateur de Sagesse.
+Vous apprenez le sort mineur "Mot de Guérison" s'il ne fait pas déjà partie de vos sorts connus.
 
-#### Brise de soin
+Les soins que le sort prodigue sont doublés.
 
-Une fois entre deux repos courts, au prix d'une action bonus, vous créez une brise curative autour d'un allié que vous pouvez voir
-à moins de 18 mètres. Pendant 1 minute (concentration), au début de chacun de ses tours, la cible regagne 1d6 + votre
-modificateur de Sagesse PV. Les PV régénérés passent à 2d6 au niveau 15.
+#### Guérison de groupe
+
+Vous apprenez le sort "Mot de guérison de groupe" s'il ne fait pas déjà partie de vos sorts connus.
+
+Les soins que le sort prodigue sont doublés.
+
+De plus, une fois entre deux repos courts, vous pouvez lancer sort sans consommer d'emplacement de sort.
 
 #### Baiser de Dwayna
 
-Lorsque vous lancez un sort de soin sur une créature, vous pouvez également mettre fin à une condition l'affectant parmi
-les suivantes : aveuglé, assourdi, empoisonné, paralysé, pétrifié. Vous pouvez utiliser cette aptitude un nombre de fois
-égal à votre modificateur de Sagesse (minimum 1) entre deux repos longs.
+Lorsque vous lancez un sort de soin sur une créature, vous pouvez également mettre fin à l'un de ces états préjudiciables : assourdi, aveuglé, charmé, effrayé, empoisonné, étourdi, paralysé, pétrifié.
 
-#### Mot de guérison suprême
+Vous pouvez utiliser cette aptitude un nombre de fois égal à votre modificateur de Sagesse (minimum 1) entre deux repos longs.
 
-Une fois entre deux repos longs, au prix d'une action, vous prononcez un mot de pouvoir divin. Chaque allié de votre choix que vous
-pouvez voir à moins de 18 mètres regagne un nombre de PV égal à 4d8 + votre modificateur de Sagesse. Les créatures
-affectées sont également débarrassées de toutes les conditions suivantes : aveuglé, assourdi, charmé, effrayé,
-empoisonné, étourdi.
+#### Hâte sacrée
 
-#### Lumière de la délivrance
+Vous pouvez utiliser votre réaction à n'importe quel moment pour lancer un sort de soin sur un allié, sans consommer d'emplacement de sort.
 
-*Active, une fois par jour.* Au prix d'une action, vous libérez une vague de lumière divine dans un rayon de 18 mètres autour de
-vous. Chaque allié dans la zone regagne un nombre de PV égal à 8d8 + votre modificateur de Sagesse, et tous les effets
-magiques néfastes les affectant prennent fin. Les créatures mortes depuis moins d'1 minute dans la zone sont ramenées
-à la vie avec 1 PV.
+Cette aptitude est utilisable un nombre de fois équivalent à votre modificateur de Sagesse entre chaque repos long.
+
+#### Lumière de Dwayna
+
+Les coûts des composantes matérielles de tous les sorts de résurrection sont divisés par 10.
 
 </td>
 
