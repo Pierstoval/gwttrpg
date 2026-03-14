@@ -1,0 +1,1091 @@
+<!doctype html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <link rel="stylesheet" href="/bundle.css">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
+</head>
+<body>
+    <nav class="container my-1">
+        <a href="/">Intro</a>
+        <a href="/Preambule">Préambule</a>
+        <a href="/Professions/Elementaliste/">Élémentaliste</a>
+        <a href="/Professions/Envouteur/">Envoûteur</a>
+        <a href="/Professions/Guerrier/">Guerrier</a>
+        <a href="/Professions/Moine/">Moine</a>
+        <a href="/Professions/Necromant/">Nécromant</a>
+        <a href="/Professions/Rodeur/">Rôdeur</a>
+
+    </nav>
+
+    <div class="container">
+        <h1>Moine</h1>
+<p>Le Moine de Guild Wars est un serviteur des dieux, dévoué à la protection et à la guérison de ses alliés. Contrairement
+au Clerc de D&amp;D5 dont il s'inspire, le Moine de Guild Wars est avant tout un soigneur et un protecteur, rarement en
+première ligne. Il porte des armures plus légères et se concentre sur le soutien divin plutôt que sur le combat direct.</p>
+<p>Sa caractéristique d'incantation est la Sagesse, reflet de sa connexion profonde avec les forces divines. Le Moine
+prépare ses sorts comme un Clerc : il a accès à l'intégralité de sa liste de sorts et en prépare un certain nombre
+chaque jour (niveau de Moine + modificateur de Sagesse, minimum 1).</p>
+<p>L'attribut principal du Moine dans Guild Wars est la <strong>Faveur Divine</strong>, qui traduit sa connexion privilégiée avec les
+dieux et amplifie l'efficacité de ses soins et protections. Cet attribut est représenté par une aptitude globale qui
+évolue avec le niveau.</p>
+<table>
+<thead>
+<tr>
+<th style="text-align:center">Niveau</th>
+<th style="text-align:center">Bonus de maîtrise</th>
+<th style="text-align:center">Aptitudes</th>
+<th>Sorts mineurs</th>
+<th>1e niv</th>
+<th>2e niv</th>
+<th>3e niv</th>
+<th>4e niv</th>
+<th>5e niv</th>
+<th>6e niv</th>
+<th>7e niv</th>
+<th>8e niv</th>
+<th>9e niv</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:center">1</td>
+<td style="text-align:center">+2</td>
+<td style="text-align:center">Faveur divine</td>
+<td>3</td>
+<td>2</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td style="text-align:center">2</td>
+<td style="text-align:center">+2</td>
+<td style="text-align:center"></td>
+<td>3</td>
+<td>3</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td style="text-align:center">3</td>
+<td style="text-align:center">+2</td>
+<td style="text-align:center">Aptitude d'archétype</td>
+<td>3</td>
+<td>4</td>
+<td>2</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td style="text-align:center">4</td>
+<td style="text-align:center">+2</td>
+<td style="text-align:center">+2 à une carac</td>
+<td>4</td>
+<td>4</td>
+<td>3</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td style="text-align:center">5</td>
+<td style="text-align:center">+3</td>
+<td style="text-align:center">Faveur divine 2, Aura de dévotion</td>
+<td>4</td>
+<td>4</td>
+<td>3</td>
+<td>2</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td style="text-align:center">6</td>
+<td style="text-align:center">+3</td>
+<td style="text-align:center">+2 à une carac</td>
+<td>4</td>
+<td>4</td>
+<td>3</td>
+<td>3</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td style="text-align:center">7</td>
+<td style="text-align:center">+3</td>
+<td style="text-align:center">2 aptitudes d'archétype</td>
+<td>4</td>
+<td>4</td>
+<td>3</td>
+<td>3</td>
+<td>1</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td style="text-align:center">8</td>
+<td style="text-align:center">+3</td>
+<td style="text-align:center">+2 à une carac</td>
+<td>4</td>
+<td>4</td>
+<td>3</td>
+<td>3</td>
+<td>2</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td style="text-align:center">9</td>
+<td style="text-align:center">+4</td>
+<td style="text-align:center">Faveur divine 3, Aura de dévotion 2</td>
+<td>4</td>
+<td>4</td>
+<td>3</td>
+<td>3</td>
+<td>3</td>
+<td>1</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td style="text-align:center">10</td>
+<td style="text-align:center">+4</td>
+<td style="text-align:center">3 aptitudes d'archétype</td>
+<td>5</td>
+<td>4</td>
+<td>3</td>
+<td>3</td>
+<td>3</td>
+<td>2</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td style="text-align:center">11</td>
+<td style="text-align:center">+4</td>
+<td style="text-align:center">Résurgence sacrée</td>
+<td>5</td>
+<td>4</td>
+<td>3</td>
+<td>3</td>
+<td>3</td>
+<td>2</td>
+<td>1</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td style="text-align:center">12</td>
+<td style="text-align:center">+4</td>
+<td style="text-align:center">+2 à une carac</td>
+<td>5</td>
+<td>4</td>
+<td>3</td>
+<td>3</td>
+<td>3</td>
+<td>2</td>
+<td>1</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td style="text-align:center">13</td>
+<td style="text-align:center">+5</td>
+<td style="text-align:center">Faveur divine 4, Aura de dévotion 3</td>
+<td>5</td>
+<td>4</td>
+<td>3</td>
+<td>3</td>
+<td>3</td>
+<td>2</td>
+<td>1</td>
+<td>1</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td style="text-align:center">14</td>
+<td style="text-align:center">+5</td>
+<td style="text-align:center">+2 à une carac, Résurgence sacrée 2</td>
+<td>5</td>
+<td>4</td>
+<td>3</td>
+<td>3</td>
+<td>3</td>
+<td>2</td>
+<td>1</td>
+<td>1</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td style="text-align:center">15</td>
+<td style="text-align:center">+5</td>
+<td style="text-align:center">4 aptitudes d'archétype</td>
+<td>5</td>
+<td>4</td>
+<td>3</td>
+<td>3</td>
+<td>3</td>
+<td>2</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td style="text-align:center">16</td>
+<td style="text-align:center">+5</td>
+<td style="text-align:center">+2 à une carac</td>
+<td>5</td>
+<td>4</td>
+<td>3</td>
+<td>3</td>
+<td>3</td>
+<td>2</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td></td>
+</tr>
+<tr>
+<td style="text-align:center">17</td>
+<td style="text-align:center">+6</td>
+<td style="text-align:center">Faveur divine 5, Aura de dévotion 4, Résurgence sacrée 3</td>
+<td>5</td>
+<td>4</td>
+<td>3</td>
+<td>3</td>
+<td>3</td>
+<td>2</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+</tr>
+<tr>
+<td style="text-align:center">18</td>
+<td style="text-align:center">+6</td>
+<td style="text-align:center">5 aptitudes d'archétype</td>
+<td>5</td>
+<td>4</td>
+<td>3</td>
+<td>3</td>
+<td>3</td>
+<td>3</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+</tr>
+<tr>
+<td style="text-align:center">19</td>
+<td style="text-align:center">+6</td>
+<td style="text-align:center">+2 à une carac</td>
+<td>5</td>
+<td>4</td>
+<td>3</td>
+<td>3</td>
+<td>3</td>
+<td>3</td>
+<td>2</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+</tr>
+<tr>
+<td style="text-align:center">20</td>
+<td style="text-align:center">+6</td>
+<td style="text-align:center">Résurgence sacrée 4</td>
+<td>5</td>
+<td>4</td>
+<td>3</td>
+<td>3</td>
+<td>3</td>
+<td>3</td>
+<td>2</td>
+<td>2</td>
+<td>1</td>
+<td>1</td>
+</tr>
+</tbody>
+</table>
+<h2>Points de vie</h2>
+<p>PV: 1d8 / niveau
+PV niveau 1: 8 + mod SAG
+PV niveau sup: + 1d8 (ou 5) + mod SAG, à chaque niveau</p>
+<h2>Aptitudes</h2>
+<h3>Maîtrises</h3>
+<p><strong>Armures</strong> : armures légères, armures intermédiaires, boucliers</p>
+<p><strong>Armes</strong> : armes courantes</p>
+<p><strong>Outils</strong> : aucun</p>
+<p><strong>Jets de sauvegarde</strong> : Sagesse, Charisme</p>
+<p><strong>Compétences</strong> : deux au choix entre Arcanes, Histoire, Intuition, Médecine, Persuasion et Religion</p>
+<h3>Équipement</h3>
+<p>Vous débutez avec l'équipement suivant, en plus de tout matériel conféré par votre historique :</p>
+<ul>
+<li>Une masse d'armes OU un bâton</li>
+<li>Une armure d'écailles OU une armure de cuir</li>
+<li>Un sac d'ecclésiastique OU un sac d'explorateur</li>
+<li>Un symbole sacré et un bouclier</li>
+</ul>
+<h3>Faveur divine</h3>
+<p>La Faveur Divine traduit la connexion privilégiée du Moine avec les puissances divines, amplifiant ses soins et
+protections au-delà de ce qu'un simple clerc pourrait accomplir.</p>
+<p>Lorsque vous lancez un sort qui restaure des points de vie à une créature, celle-ci regagne un nombre de PV
+supplémentaires indiqué dans la table ci-dessous.</p>
+<table>
+<thead>
+<tr>
+<th>Niveau</th>
+<th style="text-align:left">PV supplémentaires par sort de soin</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td style="text-align:left">+ votre mod SAG</td>
+</tr>
+<tr>
+<td>5</td>
+<td style="text-align:left">+ votre mod SAG + votre BM</td>
+</tr>
+<tr>
+<td>9</td>
+<td style="text-align:left">+ 2 × votre mod SAG + votre BM</td>
+</tr>
+<tr>
+<td>13</td>
+<td style="text-align:left">+ 2 × votre mod SAG + 2 × votre BM</td>
+</tr>
+<tr>
+<td>17</td>
+<td style="text-align:left">+ 3 × votre mod SAG + 2 × votre BM</td>
+</tr>
+</tbody>
+</table>
+<p>De plus, vous avez l'avantage aux jets de sauvegarde de Sagesse contre les sorts et effets qui tenteraient de vous
+charmer ou de vous effrayer.</p>
+<h3>Aura de dévotion</h3>
+<p>À partir du niveau 5, une aura divine émane de vous. Vous et vos alliés à moins de 3 mètres de vous avez la
+résistance aux dégâts nécrotiques.</p>
+<table>
+<thead>
+<tr>
+<th>Niveau</th>
+<th style="text-align:left">Rayon de l'aura</th>
+<th style="text-align:left">Effet supplémentaire</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>5</td>
+<td style="text-align:left">3 mètres</td>
+<td style="text-align:left">Résistance aux dégâts nécrotiques</td>
+</tr>
+<tr>
+<td>9</td>
+<td style="text-align:left">6 mètres</td>
+<td style="text-align:left">+1 aux JS contre les sorts</td>
+</tr>
+<tr>
+<td>13</td>
+<td style="text-align:left">9 mètres</td>
+<td style="text-align:left">+2 aux JS contre les sorts</td>
+</tr>
+<tr>
+<td>17</td>
+<td style="text-align:left">12 mètres</td>
+<td style="text-align:left">+3 aux JS contre les sorts, résistance aux dégâts nécrotiques et poison</td>
+</tr>
+</tbody>
+</table>
+<h3>Résurgence sacrée</h3>
+<p>À partir du niveau 11, une fois entre deux repos courts, lorsqu'un allié à moins de 18 mètres de vous tombe à 0 PV,
+vous pouvez utiliser votre réaction pour le ramener à un nombre de PV égal à votre niveau de Moine.</p>
+<table>
+<thead>
+<tr>
+<th>Niveau</th>
+<th style="text-align:left">Utilisations entre deux repos courts</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>11</td>
+<td style="text-align:left">1</td>
+</tr>
+<tr>
+<td>14</td>
+<td style="text-align:left">2</td>
+</tr>
+<tr>
+<td>17</td>
+<td style="text-align:left">3</td>
+</tr>
+<tr>
+<td>20</td>
+<td style="text-align:left">4</td>
+</tr>
+</tbody>
+</table>
+<h2>Archétypes</h2>
+<table style="vertical-align: top" valign="top">
+<tbody>
+<tr>
+<td>
+<h3>Prières de guérison</h3>
+<p>Les Prières de Guérison se concentrent sur la restauration et la régénération. Le Moine guérisseur est le soigneur
+ultime, capable de ramener ses alliés du bord de la mort et de maintenir le groupe en vie dans les situations les
+plus désespérées.</p>
+<table>
+<thead>
+<tr>
+<th>Niveau</th>
+<th style="text-align:left">Aptitude</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>3</td>
+<td style="text-align:left">Oraison de guérison</td>
+</tr>
+<tr>
+<td>7</td>
+<td style="text-align:left">Brise de soin</td>
+</tr>
+<tr>
+<td>10</td>
+<td style="text-align:left">Baiser de Dwayna</td>
+</tr>
+<tr>
+<td>15</td>
+<td style="text-align:left">Mot de guérison suprême</td>
+</tr>
+<tr>
+<td>18</td>
+<td style="text-align:left">Lumière de la délivrance</td>
+</tr>
+</tbody>
+</table>
+<h4>Oraison de guérison</h4>
+<p>Vous apprenez le sort mineur Stabilisation s'il ne fait pas déjà partie de vos sorts connus. De plus, lorsque vous
+lancez un sort de soin sur une créature, si celle-ci est en dessous de la moitié de ses PV maximum, les PV restaurés
+sont augmentés d'un montant égal à votre modificateur de Sagesse.</p>
+<h4>Brise de soin</h4>
+<p>Une fois entre deux repos courts, en action bonus, vous créez une brise curative autour d'un allié que vous pouvez voir
+à moins de 18 mètres. Pendant 1 minute (concentration), au début de chacun de ses tours, la cible regagne 1d6 + votre
+modificateur de Sagesse PV. Les PV régénérés passent à 2d6 au niveau 15.</p>
+<h4>Baiser de Dwayna</h4>
+<p>Lorsque vous lancez un sort de soin sur une créature, vous pouvez également mettre fin à une condition l'affectant parmi
+les suivantes : aveuglé, assourdi, empoisonné, paralysé, pétrifié. Vous pouvez utiliser cette aptitude un nombre de fois
+égal à votre modificateur de Sagesse (minimum 1) entre deux repos longs.</p>
+<h4>Mot de guérison suprême</h4>
+<p>Une fois entre deux repos longs, en action, vous prononcez un mot de pouvoir divin. Chaque allié de votre choix que vous
+pouvez voir à moins de 18 mètres regagne un nombre de PV égal à 4d8 + votre modificateur de Sagesse. Les créatures
+affectées sont également débarrassées de toutes les conditions suivantes : aveuglé, assourdi, charmé, effrayé,
+empoisonné, étourdi.</p>
+<h4>Lumière de la délivrance</h4>
+<p><em>Active, une fois par jour.</em> En action, vous libérez une vague de lumière divine dans un rayon de 18 mètres autour de
+vous. Chaque allié dans la zone regagne un nombre de PV égal à 8d8 + votre modificateur de Sagesse, et tous les effets
+magiques néfastes les affectant prennent fin. Les créatures mortes depuis moins d'1 minute dans la zone sont ramenées
+à la vie avec 1 PV.</p>
+</td>
+<td>
+<h3>Prières de protection</h3>
+<p>Les Prières de Protection érigent des boucliers divins, réduisent les dégâts entrants et imposent des conditions
+défensives aux agresseurs. Le Moine protecteur est le rempart du groupe, empêchant les dégâts avant qu'ils ne soient
+infligés.</p>
+<table>
+<thead>
+<tr>
+<th>Niveau</th>
+<th style="text-align:left">Aptitude</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>3</td>
+<td style="text-align:left">Esprit protecteur</td>
+</tr>
+<tr>
+<td>7</td>
+<td style="text-align:left">Bouclier d'absorption</td>
+</tr>
+<tr>
+<td>10</td>
+<td style="text-align:left">Égide</td>
+</tr>
+<tr>
+<td>15</td>
+<td style="text-align:left">Lien protecteur</td>
+</tr>
+<tr>
+<td>18</td>
+<td style="text-align:left">Esprit de préservation</td>
+</tr>
+</tbody>
+</table>
+<h4>Esprit protecteur</h4>
+<p>En action bonus, vous pouvez placer une bénédiction protectrice sur un allié que vous pouvez voir à moins de 18 mètres,
+pour une durée de 1 minute (concentration). Tant que la bénédiction est active, chaque fois que la cible subit des
+dégâts, ces dégâts sont réduits d'un montant égal à votre modificateur de Sagesse + la moitié de votre bonus de
+maîtrise (arrondi à l'inférieur). Cet effet ne peut pas réduire les dégâts en dessous de 1.</p>
+<h4>Bouclier d'absorption</h4>
+<p>Une fois entre deux repos courts, en réaction lorsqu'un allié à moins de 18 mètres subit des dégâts, vous pouvez
+ériger un bouclier divin autour de lui. Les dégâts de l'attaque déclencheuse sont réduits de 2d8 + votre modificateur
+de Sagesse. Les dégâts absorbés passent à 3d8 au niveau 10 et 4d8 au niveau 15.</p>
+<h4>Égide</h4>
+<p>Une fois entre deux repos longs, en action, vous invoquez un bouclier divin protégeant vous et vos alliés. Pendant
+1 minute (concentration), vous et chaque allié à moins de 9 mètres de vous bénéficiez d'un bonus de +2 à la CA.
+De plus, la première attaque qui touche chaque créature protégée à chaque round est automatiquement manquée.</p>
+<h4>Lien protecteur</h4>
+<p>En action bonus, vous créez un lien mystique entre vous et un allié que vous pouvez voir à moins de 18 mètres, pour
+une durée de 1 minute (concentration). Tant que le lien est actif, chaque fois que l'allié subit des dégâts, vous
+pouvez choisir de subir la moitié de ces dégâts à sa place (ces dégâts ne peuvent pas être réduits ou évités de quelque
+manière que ce soit). L'allié ne subit alors que la moitié des dégâts originaux.</p>
+<h4>Esprit de préservation</h4>
+<p><em>Active, une fois par jour.</em> En action, vous invoquez un esprit divin qui plane au-dessus du champ de bataille pendant
+1 minute (concentration). L'esprit se manifeste en un point que vous pouvez voir à moins de 18 mètres.
+Chaque allié à moins de 9 mètres de l'esprit bénéficie des effets suivants :</p>
+<ul>
+<li>Résistance à tous les types de dégâts.</li>
+<li>Immunité aux conditions effrayé et charmé.</li>
+<li>Au début de chacun de leurs tours, ils regagnent un nombre de PV égal à votre modificateur de Sagesse.</li>
+</ul>
+</td>
+<td>
+<h3>Prières de châtiment</h3>
+<p>Les Prières de Châtiment canalisent la colère divine pour punir les ennemis. Le Moine vengeur inflige des dégâts
+radiants, rétribue les agresseurs et mêle offense divine et soutien du groupe.</p>
+<table>
+<thead>
+<tr>
+<th>Niveau</th>
+<th style="text-align:left">Aptitude</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>3</td>
+<td style="text-align:left">Frappe du juge</td>
+</tr>
+<tr>
+<td>7</td>
+<td style="text-align:left">Bénédiction de la force</td>
+</tr>
+<tr>
+<td>10</td>
+<td style="text-align:left">Châtiment divin</td>
+</tr>
+<tr>
+<td>15</td>
+<td style="text-align:left">Colère de Balthazar</td>
+</tr>
+<tr>
+<td>18</td>
+<td style="text-align:left">Rétribution sacrée</td>
+</tr>
+</tbody>
+</table>
+<h4>Frappe du juge</h4>
+<p>Lorsque vous touchez une créature avec une attaque au corps-à-corps ou un sort infligeant des dégâts, vous pouvez
+ajouter 1d6 dégâts radiants supplémentaires. Ces dégâts passent à 2d6 au niveau 7, 3d6 au niveau 13 et 4d6 au
+niveau 18.</p>
+<p>Vous pouvez utiliser cette aptitude un nombre de fois égal à votre modificateur de Sagesse (minimum 1) entre deux repos
+courts.</p>
+<h4>Bénédiction de la force</h4>
+<p>En action bonus, vous bénissez l'arme d'un allié que vous pouvez voir à moins de 9 mètres (ou votre propre arme)
+pendant 1 minute (concentration). L'arme bénie inflige des dégâts radiants supplémentaires égaux à votre modificateur
+de Sagesse à chaque attaque réussie, et est considérée comme magique pour ce qui est de surmonter les résistances et
+immunités.</p>
+<p>Vous pouvez utiliser cette aptitude un nombre de fois égal à la moitié de votre modificateur de Sagesse (arrondi au
+supérieur, minimum 1) entre deux repos longs.</p>
+<h4>Châtiment divin</h4>
+<p>Une fois entre deux repos courts, lorsqu'un allié à moins de 18 mètres de vous subit des dégâts d'une créature que vous
+pouvez voir, vous pouvez utiliser votre réaction pour infliger à l'agresseur des dégâts radiants égaux aux dégâts subis
+par votre allié (maximum 4d8 + votre modificateur de Sagesse). L'agresseur doit également réussir un JS CON (DD = DD de
+sauvegarde de vos sorts) sous peine d'être aveuglé jusqu'à la fin de son prochain tour.</p>
+<h4>Colère de Balthazar</h4>
+<p>Une fois entre deux repos longs, en action, vous invoquez la fureur du dieu de la guerre. Pendant 1 minute
+(concentration), une aura de flammes divines vous entoure dans un rayon de 3 mètres. Toute créature hostile qui
+commence son tour dans l'aura ou y entre pour la première fois subit 3d8 dégâts radiants (JS DEX pour la moitié).
+De plus, vos sorts qui infligent des dégâts radiants infligent un dé de dégâts supplémentaire.</p>
+<h4>Rétribution sacrée</h4>
+<p><em>Active, une fois par jour.</em> En action, vous marquez un nombre de créatures hostiles que vous pouvez voir égal à votre
+modificateur de Sagesse (minimum 2), toutes à moins de 18 mètres. Pendant 1 minute (concentration), chaque fois qu'une
+créature marquée inflige des dégâts à vous ou à un allié, elle subit immédiatement des dégâts radiants égaux à la
+moitié des dégâts qu'elle a infligés. Si une créature marquée est réduite à 0 PV, l'énergie divine libérée soigne
+l'allié le plus proche de 2d8 + votre modificateur de Sagesse PV.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h2>Listes de sorts</h2>
+<table>
+<thead>
+<tr>
+<th style="text-align:left">Nom du sort</th>
+<th style="text-align:center">Niveau</th>
+<th style="text-align:left">Classe(s) D&amp;D d'origine</th>
+<th style="text-align:left">École de magie</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left">Cri de bataille</td>
+<td style="text-align:center">0</td>
+<td style="text-align:left">Barde, Clerc, Ensorceleur, Sorcier, Magicien</td>
+<td style="text-align:left">Évocation</td>
+</tr>
+<tr>
+<td style="text-align:left">Flamme sacrée</td>
+<td style="text-align:center">0</td>
+<td style="text-align:left">Clerc</td>
+<td style="text-align:left">Évocation</td>
+</tr>
+<tr>
+<td style="text-align:left">Lumière</td>
+<td style="text-align:center">0</td>
+<td style="text-align:left">Barde, Clerc, Ensorceleur, Magicien</td>
+<td style="text-align:left">Évocation</td>
+</tr>
+<tr>
+<td style="text-align:left">Résistance</td>
+<td style="text-align:center">0</td>
+<td style="text-align:left">Clerc, Druide</td>
+<td style="text-align:left">Abjuration</td>
+</tr>
+<tr>
+<td style="text-align:left">Stabilisation</td>
+<td style="text-align:center">0</td>
+<td style="text-align:left">Clerc</td>
+<td style="text-align:left">Nécromancie</td>
+</tr>
+<tr>
+<td style="text-align:left">Blessure</td>
+<td style="text-align:center">1</td>
+<td style="text-align:left">Clerc</td>
+<td style="text-align:left">Nécromancie</td>
+</tr>
+<tr>
+<td style="text-align:left">Bouclier de la foi</td>
+<td style="text-align:center">1</td>
+<td style="text-align:left">Clerc, Paladin</td>
+<td style="text-align:left">Abjuration</td>
+</tr>
+<tr>
+<td style="text-align:left">Faveur divine</td>
+<td style="text-align:center">1</td>
+<td style="text-align:left">Paladin</td>
+<td style="text-align:left">Évocation</td>
+</tr>
+<tr>
+<td style="text-align:left">Mot de guérison</td>
+<td style="text-align:center">1</td>
+<td style="text-align:left">Barde, Clerc, Druide</td>
+<td style="text-align:left">Évocation</td>
+</tr>
+<tr>
+<td style="text-align:left">Protection contre le Mal et le Bien</td>
+<td style="text-align:center">1</td>
+<td style="text-align:left">Clerc, Paladin, Sorcier, Magicien</td>
+<td style="text-align:left">Abjuration</td>
+</tr>
+<tr>
+<td style="text-align:left">Sanctuaire</td>
+<td style="text-align:center">1</td>
+<td style="text-align:left">Clerc</td>
+<td style="text-align:left">Abjuration</td>
+</tr>
+<tr>
+<td style="text-align:left">Soins</td>
+<td style="text-align:center">1</td>
+<td style="text-align:left">Barde, Clerc, Druide, Paladin, Rôdeur</td>
+<td style="text-align:left">Évocation</td>
+</tr>
+<tr>
+<td style="text-align:left">Éclair traçant</td>
+<td style="text-align:center">1</td>
+<td style="text-align:left">Clerc</td>
+<td style="text-align:left">Évocation</td>
+</tr>
+<tr>
+<td style="text-align:left">Égide fugace</td>
+<td style="text-align:center">1</td>
+<td style="text-align:left">Clerc, Paladin</td>
+<td style="text-align:left">Abjuration</td>
+</tr>
+<tr>
+<td style="text-align:left">Aide</td>
+<td style="text-align:center">2</td>
+<td style="text-align:left">Clerc, Paladin</td>
+<td style="text-align:left">Abjuration</td>
+</tr>
+<tr>
+<td style="text-align:left">Arme spirituelle</td>
+<td style="text-align:center">2</td>
+<td style="text-align:left">Clerc</td>
+<td style="text-align:left">Évocation</td>
+</tr>
+<tr>
+<td style="text-align:left">Arme vengeresse</td>
+<td style="text-align:center">2</td>
+<td style="text-align:left">Clerc, Paladin</td>
+<td style="text-align:left">Évocation</td>
+</tr>
+<tr>
+<td style="text-align:left">Châtiment radiant</td>
+<td style="text-align:center">2</td>
+<td style="text-align:left">Paladin</td>
+<td style="text-align:left">Évocation</td>
+</tr>
+<tr>
+<td style="text-align:left">Cécité/surdité</td>
+<td style="text-align:center">2</td>
+<td style="text-align:left">Barde, Clerc, Ensorceleur, Magicien</td>
+<td style="text-align:left">Nécromancie</td>
+</tr>
+<tr>
+<td style="text-align:left">Flamme éternelle</td>
+<td style="text-align:center">2</td>
+<td style="text-align:left">Clerc, Magicien</td>
+<td style="text-align:left">Évocation</td>
+</tr>
+<tr>
+<td style="text-align:left">Magie dérobée</td>
+<td style="text-align:center">2</td>
+<td style="text-align:left">Barde, Ensorceleur, Sorcier, Magicien</td>
+<td style="text-align:left">Abjuration</td>
+</tr>
+<tr>
+<td style="text-align:left">Prière de guérison</td>
+<td style="text-align:center">2</td>
+<td style="text-align:left">Clerc</td>
+<td style="text-align:left">Évocation</td>
+</tr>
+<tr>
+<td style="text-align:left">Protection contre le poison</td>
+<td style="text-align:center">2</td>
+<td style="text-align:left">Clerc, Druide, Paladin, Rôdeur</td>
+<td style="text-align:left">Abjuration</td>
+</tr>
+<tr>
+<td style="text-align:left">Protection d'autrui</td>
+<td style="text-align:center">2</td>
+<td style="text-align:left">Clerc</td>
+<td style="text-align:left">Abjuration</td>
+</tr>
+<tr>
+<td style="text-align:left">Préservation des morts</td>
+<td style="text-align:center">2</td>
+<td style="text-align:left">Clerc, Magicien</td>
+<td style="text-align:left">Nécromancie</td>
+</tr>
+<tr>
+<td style="text-align:left">Restauration partielle</td>
+<td style="text-align:center">2</td>
+<td style="text-align:left">Barde, Clerc, Druide, Paladin, Rôdeur</td>
+<td style="text-align:left">Abjuration</td>
+</tr>
+<tr>
+<td style="text-align:left">Animation des morts</td>
+<td style="text-align:center">3</td>
+<td style="text-align:left">Clerc, Magicien</td>
+<td style="text-align:left">Nécromancie</td>
+</tr>
+<tr>
+<td style="text-align:left">Aura de confiance</td>
+<td style="text-align:center">3</td>
+<td style="text-align:left">Paladin</td>
+<td style="text-align:left">Abjuration</td>
+</tr>
+<tr>
+<td style="text-align:left">Cercle magique</td>
+<td style="text-align:center">3</td>
+<td style="text-align:left">Clerc, Paladin, Sorcier, Magicien</td>
+<td style="text-align:left">Abjuration</td>
+</tr>
+<tr>
+<td style="text-align:left">Communication avec les morts</td>
+<td style="text-align:center">3</td>
+<td style="text-align:left">Barde, Clerc</td>
+<td style="text-align:left">Nécromancie</td>
+</tr>
+<tr>
+<td style="text-align:left">Communication à distance</td>
+<td style="text-align:center">3</td>
+<td style="text-align:left">Barde, Clerc, Magicien</td>
+<td style="text-align:left">Évocation</td>
+</tr>
+<tr>
+<td style="text-align:left">Dissipation de la magie</td>
+<td style="text-align:center">3</td>
+<td style="text-align:left">Barde, Clerc, Druide, Paladin, Ensorceleur, Sorcier, Magicien</td>
+<td style="text-align:left">Abjuration</td>
+</tr>
+<tr>
+<td style="text-align:left">Délivrance des malédictions</td>
+<td style="text-align:center">3</td>
+<td style="text-align:left">Clerc, Paladin, Sorcier, Magicien</td>
+<td style="text-align:left">Abjuration</td>
+</tr>
+<tr>
+<td style="text-align:left">Glyphe de garde</td>
+<td style="text-align:center">3</td>
+<td style="text-align:left">Barde, Clerc, Magicien</td>
+<td style="text-align:left">Abjuration</td>
+</tr>
+<tr>
+<td style="text-align:left">Lumière du jour</td>
+<td style="text-align:center">3</td>
+<td style="text-align:left">Clerc, Druide, Paladin, Rôdeur, Ensorceleur</td>
+<td style="text-align:left">Évocation</td>
+</tr>
+<tr>
+<td style="text-align:left">Malédiction</td>
+<td style="text-align:center">3</td>
+<td style="text-align:left">Barde, Clerc, Magicien</td>
+<td style="text-align:left">Nécromancie</td>
+</tr>
+<tr>
+<td style="text-align:left">Mot de guérison de groupe</td>
+<td style="text-align:center">3</td>
+<td style="text-align:left">Clerc</td>
+<td style="text-align:left">Évocation</td>
+</tr>
+<tr>
+<td style="text-align:left">Protection contre l'énergie</td>
+<td style="text-align:center">3</td>
+<td style="text-align:left">Clerc, Druide, Rôdeur, Ensorceleur, Magicien</td>
+<td style="text-align:left">Abjuration</td>
+</tr>
+<tr>
+<td style="text-align:left">Retour à la vie</td>
+<td style="text-align:center">3</td>
+<td style="text-align:left">Clerc, Paladin</td>
+<td style="text-align:left">Nécromancie</td>
+</tr>
+<tr>
+<td style="text-align:left">Signal d'espérance</td>
+<td style="text-align:center">3</td>
+<td style="text-align:left">Clerc</td>
+<td style="text-align:left">Abjuration</td>
+</tr>
+<tr>
+<td style="text-align:left">Bannissement</td>
+<td style="text-align:center">4</td>
+<td style="text-align:left">Clerc, Paladin, Ensorceleur, Sorcier, Magicien</td>
+<td style="text-align:left">Abjuration</td>
+</tr>
+<tr>
+<td style="text-align:left">Escorte macabre</td>
+<td style="text-align:center">4</td>
+<td style="text-align:left">Clerc, Magicien</td>
+<td style="text-align:left">Nécromancie</td>
+</tr>
+<tr>
+<td style="text-align:left">Liberté de mouvement</td>
+<td style="text-align:center">4</td>
+<td style="text-align:left">Barde, Clerc, Druide, Rôdeur</td>
+<td style="text-align:left">Abjuration</td>
+</tr>
+<tr>
+<td style="text-align:left">Protection contre la mort</td>
+<td style="text-align:center">4</td>
+<td style="text-align:left">Clerc, Paladin</td>
+<td style="text-align:left">Abjuration</td>
+</tr>
+<tr>
+<td style="text-align:left">Assoupissement</td>
+<td style="text-align:center">5</td>
+<td style="text-align:left">Clerc, Druide, Sorcier, Magicien</td>
+<td style="text-align:left">Abjuration</td>
+</tr>
+<tr>
+<td style="text-align:left">Aura restauratrice</td>
+<td style="text-align:center">5</td>
+<td style="text-align:left">Paladin</td>
+<td style="text-align:left">Abjuration</td>
+</tr>
+<tr>
+<td style="text-align:left">Coercition planaire</td>
+<td style="text-align:center">5</td>
+<td style="text-align:left">Barde, Clerc, Druide, Magicien</td>
+<td style="text-align:left">Abjuration</td>
+</tr>
+<tr>
+<td style="text-align:left">Colonne de feu</td>
+<td style="text-align:center">5</td>
+<td style="text-align:left">Clerc</td>
+<td style="text-align:left">Évocation</td>
+</tr>
+<tr>
+<td style="text-align:left">Contagion</td>
+<td style="text-align:center">5</td>
+<td style="text-align:left">Clerc, Druide, Sorcier</td>
+<td style="text-align:left">Nécromancie</td>
+</tr>
+<tr>
+<td style="text-align:left">Dissipation du Mal et du Bien</td>
+<td style="text-align:center">5</td>
+<td style="text-align:left">Clerc, Paladin</td>
+<td style="text-align:left">Abjuration</td>
+</tr>
+<tr>
+<td style="text-align:left">Rappel à la vie</td>
+<td style="text-align:center">5</td>
+<td style="text-align:left">Barde, Clerc, Paladin</td>
+<td style="text-align:left">Nécromancie</td>
+</tr>
+<tr>
+<td style="text-align:left">Restauration suprême</td>
+<td style="text-align:center">5</td>
+<td style="text-align:left">Barde, Clerc, Druide, Rôdeur</td>
+<td style="text-align:left">Abjuration</td>
+</tr>
+<tr>
+<td style="text-align:left">Sanctification</td>
+<td style="text-align:center">5</td>
+<td style="text-align:left">Clerc</td>
+<td style="text-align:left">Évocation</td>
+</tr>
+<tr>
+<td style="text-align:left">Soins de groupe</td>
+<td style="text-align:center">5</td>
+<td style="text-align:left">Barde, Clerc, Druide, Rôdeur</td>
+<td style="text-align:left">Évocation</td>
+</tr>
+<tr>
+<td style="text-align:left">Barrière de lames</td>
+<td style="text-align:center">6</td>
+<td style="text-align:left">Clerc</td>
+<td style="text-align:left">Évocation</td>
+</tr>
+<tr>
+<td style="text-align:left">Guérison</td>
+<td style="text-align:center">6</td>
+<td style="text-align:left">Clerc, Druide</td>
+<td style="text-align:left">Évocation</td>
+</tr>
+<tr>
+<td style="text-align:left">Interdiction</td>
+<td style="text-align:center">6</td>
+<td style="text-align:left">Clerc</td>
+<td style="text-align:left">Abjuration</td>
+</tr>
+<tr>
+<td style="text-align:left">Mise à mal</td>
+<td style="text-align:center">6</td>
+<td style="text-align:left">Clerc</td>
+<td style="text-align:left">Nécromancie</td>
+</tr>
+<tr>
+<td style="text-align:left">Parole divine</td>
+<td style="text-align:center">7</td>
+<td style="text-align:left">Clerc</td>
+<td style="text-align:left">Évocation</td>
+</tr>
+<tr>
+<td style="text-align:left">Résurrection</td>
+<td style="text-align:center">7</td>
+<td style="text-align:left">Barde, Clerc</td>
+<td style="text-align:left">Nécromancie</td>
+</tr>
+<tr>
+<td style="text-align:left">Symbole</td>
+<td style="text-align:center">7</td>
+<td style="text-align:left">Barde, Clerc, Magicien</td>
+<td style="text-align:left">Abjuration</td>
+</tr>
+<tr>
+<td style="text-align:left">Tempête de feu</td>
+<td style="text-align:center">7</td>
+<td style="text-align:left">Clerc, Druide, Ensorceleur</td>
+<td style="text-align:left">Évocation</td>
+</tr>
+<tr>
+<td style="text-align:left">Aura sacrée</td>
+<td style="text-align:center">8</td>
+<td style="text-align:left">Clerc</td>
+<td style="text-align:left">Abjuration</td>
+</tr>
+<tr>
+<td style="text-align:left">Champ d'antimagie</td>
+<td style="text-align:center">8</td>
+<td style="text-align:left">Clerc, Magicien</td>
+<td style="text-align:left">Abjuration</td>
+</tr>
+<tr>
+<td style="text-align:left">Guérison de groupe</td>
+<td style="text-align:center">9</td>
+<td style="text-align:left">Clerc</td>
+<td style="text-align:left">Évocation</td>
+</tr>
+<tr>
+<td style="text-align:left">Projection astrale</td>
+<td style="text-align:center">9</td>
+<td style="text-align:left">Clerc, Sorcier, Magicien</td>
+<td style="text-align:left">Nécromancie</td>
+</tr>
+<tr>
+<td style="text-align:left">Résurrection suprême</td>
+<td style="text-align:center">9</td>
+<td style="text-align:left">Clerc, Druide</td>
+<td style="text-align:left">Nécromancie</td>
+</tr>
+</tbody>
+</table>
+
+    </div>
+
+    <script>
+        document.querySelectorAll('table').forEach(table => table.className += "table");
+    </script>
+</body>
+</html>
