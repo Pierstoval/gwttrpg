@@ -147,9 +147,7 @@ Les coûts des composantes matérielles de tous les sorts de résurrection sont 
 
 ### Prières de protection
 
-Les Prières de Protection érigent des boucliers divins, réduisent les dégâts entrants et imposent des conditions
-défensives aux agresseurs. Le Moine protecteur est le rempart du groupe, empêchant les dégâts avant qu'ils ne soient
-infligés.
+Les Prières de Protection érigent des boucliers divins, réduisent les dégâts subis et améliorent la défense.
 
 | Niveau | Aptitude               |
 |--------|:-----------------------|
