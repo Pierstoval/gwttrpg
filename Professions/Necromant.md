@@ -18,16 +18,16 @@ Le Nécromant est un lanceur de sorts hybride entre Sorcier et Magicien, maître
 |   8    |        +3         |                    +2 à une carac                    | 4             | 4      | 3      | 3      | 2      |        |        |        |        |        |
 |   9    |        +4         |           Moisson des Âmes 3, Lien Noir 2            | 4             | 4      | 3      | 3      | 3      | 1      |        |        |        |        |
 |   10   |        +4         |                 Aptitude d'archétype                 | 5             | 4      | 3      | 3      | 3      | 2      |        |        |        |        |
-|   11   |        +4         |                  Explosion Putride                   | 5             | 4      | 3      | 3      | 3      | 2      | 1      |        |        |        |
+|   11   |        +4         |                  Chair putride                   | 5             | 4      | 3      | 3      | 3      | 2      | 1      |        |        |        |
 |   12   |        +4         |                    +2 à une carac                    | 5             | 4      | 3      | 3      | 3      | 2      | 1      |        |        |        |
 |   13   |        +5         |           Moisson des Âmes 4, Lien Noir 3            | 5             | 4      | 3      | 3      | 3      | 2      | 1      | 1      |        |        |
-|   14   |        +5         |         +2 à une carac, Explosion Putride 2          | 5             | 4      | 3      | 3      | 3      | 2      | 1      | 1      |        |        |
+|   14   |        +5         |         +2 à une carac, Chair putride 2          | 5             | 4      | 3      | 3      | 3      | 2      | 1      | 1      |        |        |
 |   15   |        +5         |                 Aptitude d'archétype                 | 5             | 4      | 3      | 3      | 3      | 2      | 1      | 1      | 1      |        |
 |   16   |        +5         |                    +2 à une carac                    | 5             | 4      | 3      | 3      | 3      | 2      | 1      | 1      | 1      |        |
-|   17   |        +6         | Moisson des Âmes 5, Lien Noir 4, Explosion Putride 3 | 5             | 4      | 3      | 3      | 3      | 2      | 1      | 1      | 1      | 1      |
+|   17   |        +6         | Moisson des Âmes 5, Lien Noir 4, Chair putride 3 | 5             | 4      | 3      | 3      | 3      | 2      | 1      | 1      | 1      | 1      |
 |   18   |        +6         |                 Aptitude d'archétype                 | 5             | 4      | 3      | 3      | 3      | 3      | 1      | 1      | 1      | 1      |
 |   19   |        +6         |                    +2 à une carac                    | 5             | 4      | 3      | 3      | 3      | 3      | 2      | 1      | 1      | 1      |
-|   20   |        +6         |                 Explosion Putride 4                  | 5             | 4      | 3      | 3      | 3      | 3      | 2      | 2      | 1      | 1      |
+|   20   |        +6         |                 Chair putride 4                  | 5             | 4      | 3      | 3      | 3      | 3      | 2      | 2      | 1      | 1      |
 
 ## Points de vie
 
@@ -83,7 +83,7 @@ Les dégâts infligés par ce biais ne peuvent pas réduire les PV de la cible �
 
 Lorsque vous atteignez le niveau 9 et au-delà, vous pouvez concentrer cette aptitude sur plusieurs créatures en même temps.
 
-### Explosion Putride
+### Chair putride
 
 À partir du niveau 11, une fois entre deux repos longs, lorsque vous êtes réduit à 0 PV mais pas tué sur le coup, vous pouvez au lieu de tomber inconscient rester à 1 PV et libérer une explosion d'énergie nécrotique. Chaque créature hostile à moins de 3 mètres de vous subit 3d10 dégâts nécrotiques.
 
@@ -222,9 +222,7 @@ Vous perdez la moitié de vos PV actuels (arrondi au supérieur, minimum 1), et 
 
 ### Magie de la mort
 
-La Magie de la Mort est l'art de commander aux morts-vivants, de manipuler les cadavres et d'exploiter l'énergie
-résiduelle des défunts. Le maître de la mort lève des armées de squelettes et transforme le champ de bataille en
-terrain de désolation.
+La Magie de la Mort est l'art de commander aux morts-vivants, de manipuler les cadavres et d'exploiter l'énergie résiduelle des défunts.
 
 | Niveau | Aptitude                   |
 |--------|:---------------------------|
@@ -232,64 +230,47 @@ terrain de désolation.
 | 7      | Fétide de mort             |
 | 10     | Golem de chair             |
 | 15     | Nova de mort               |
-| 18     | Seigneur des morts-vivants |
+| 18     | Aura de la Liche |
 
 #### Horreur d'os
 
-Au prix d'une action, vous animez les restes d'une créature morte à moins de 9 mètres pour créer un squelette ou un zombi
-(selon les restes disponibles), comme avec le sort Animation des morts. Le mort-vivant créé bénéficie d'un bonus à ses
-PV maximum égal à votre niveau de Nécromant et ajoute votre bonus de maîtrise à ses jets d'attaque et de dégâts.
+Le sort "Animation des morts" ne consomme pas d'emplacement de sort.
 
-Vous pouvez maintenir un nombre de morts-vivants actifs simultanément égal à votre modificateur d'Intelligence
-(minimum 1). Si vous dépassez cette limite, le mort-vivant le plus ancien tombe inerte.
-
-Cette aptitude ne consomme pas d'emplacement de sort, mais vous ne pouvez l'utiliser qu'un nombre de fois égal à votre
-modificateur d'Intelligence (minimum 1) entre deux repos longs.
+De plus, au lieu de 4, vous pouvez maintenir un nombre de créatures animées simultanément égal à 4 + votre modificateur d'Intelligence (minimum 1). Si vous dépassez cette limite, la créature animée la plus ancienne tombe inerte.
 
 #### Fétide de mort
 
-Vos morts-vivants émettent une aura pestilentielle. Toute créature hostile qui commence son tour à moins de 1,5 mètre
-de l'un de vos morts-vivants doit réussir un JS CON (DD = DD de sauvegarde de vos sorts) sous peine d'être empoisonnée
-jusqu'à la fin de son prochain tour.
+Vos morts-vivants émettent une aura pestilentielle. Toute créature hostile qui commence son tour à moins de 1,5 mètre de l'un de vos morts-vivants doit réussir un JS CON (DD = DD de sauvegarde de vos sorts) sous peine d'être empoisonnée jusqu'à la fin de son prochain tour.
 
-De plus, lorsque l'un de vos morts-vivants est détruit, il explose dans un rayon de 1,5 mètre, infligeant 1d8 dégâts
-nécrotiques à chaque créature hostile dans la zone (JS DEX pour la moitié). Les dégâts passent à 2d8 au niveau 13 et
-3d8 au niveau 18.
+De plus, lorsque l'un de vos morts-vivants est détruit, il explose dans un rayon de 1,5 mètre, infligeant 1d8 dégâts nécrotiques à chaque créature hostile dans la zone (JS DEX pour la moitié). Les dégâts passent à 2d8 au niveau 13 et 3d8 au niveau 18.
 
 #### Golem de chair
 
-Une fois entre deux repos longs, si vous avez accès à au moins 3 cadavres de créatures de taille M ou supérieure, vous
-pouvez passer 1 minute à assembler un Golem de chair. Il utilise le profil d'un Ogre zombi avec les ajustements
-suivants :
+Une fois entre deux repos longs, si vous avez accès à au moins 3 cadavres de créatures de taille M ou supérieure, vous pouvez passer 1 minute à assembler un Golem de chair. Il utilise le profil d'un Ogre zombie avec les ajustements suivants :
 
 * Il ajoute votre bonus de maîtrise à sa CA, ses jets d'attaque et ses jets de dégâts.
-* Ses PV maximum sont égaux à 5 × votre niveau de Nécromant.
-* Il agit à votre initiative. Au prix d'une action bonus, vous pouvez lui ordonner d'effectuer l'action Attaquer,
-  Foncer, Se désengager ou Esquiver.
+* Ses PV maximum sont égaux à 5 fois votre niveau de Nécromant.
+* Il agit à votre initiative. Au prix d'une action bonus, vous pouvez lui ordonner d'effectuer l'action Attaquer, Foncer, Se désengager ou Esquiver.
 * Il persiste pendant 1 heure ou jusqu'à sa destruction. Si vous invoquez un nouveau Golem, le précédent tombe inerte.
 
-Ce Golem ne compte pas dans la limite de morts-vivants de l'aptitude Horreur d'os.
+Ce Golem ne compte pas dans la limite de créatures animées de l'aptitude Horreur d'os.
 
-#### Nova de mort
+#### Explosion putride
 
-Une fois entre deux repos longs, au prix d'une action, vous pouvez sacrifier l'un de vos morts-vivants actifs à moins de 18
-mètres pour déclencher une explosion nécrotique. Toutes les créatures hostiles dans un rayon de 6 mètres autour du
-mort-vivant sacrifié doivent réussir un JS CON (DD = DD de sauvegarde de vos sorts) sous peine de subir 6d10 dégâts
-nécrotiques et d'être empoisonnées pendant 1 minute (JS CON à la fin de chacun de ses tours pour mettre fin à l'effet).
-En cas de réussite, la cible ne subit que la moitié des dégâts et n'est pas empoisonnée. Si le mort-vivant sacrifié
-était un Golem de chair, les dégâts passent à 10d10.
+Une fois entre deux repos courts, au prix d'une action, vous pouvez sacrifier l'un de vos morts-vivants actifs à moins de 18 mètres pour déclencher une explosion nécrotique.
+Toutes les créatures hostiles dans un rayon de 6 mètres autour du mort-vivant sacrifié doivent réussir un JS CON (DD = DD de sauvegarde de vos sorts) sous peine de subir 6d10 dégâts nécrotiques et d'être empoisonnées pendant 1 minute (JS CON à la fin de chacun de ses tours pour mettre fin à l'effet). En cas de réussite, la cible ne subit que la moitié des dégâts et n'est pas empoisonnée. Si le mort-vivant sacrifié était un Golem de chair, les dégâts passent à 10d10.
 
-#### Seigneur des morts-vivants
+#### Aura de la Liche
 
-*Active, une fois par jour.* Votre maîtrise de la nécromancie atteint son apogée :
+Votre maîtrise de la nécromancie atteint son apogée.
+
+Une fois par jour, au prix d'une action, votre apparence se déforme et votre aura mortelle persiste pendant 1 minute (concentration) :
 
 * Le nombre maximum de morts-vivants que vous pouvez maintenir simultanément est doublé.
 * Vos morts-vivants bénéficient de la résistance à tous les types de dégâts sauf radiants et de feu.
 * Au début de chacun de vos tours, chaque mort-vivant sous votre contrôle regagne un nombre de PV égal à votre
   modificateur d'Intelligence.
-* Lorsque vous lancez le sort Animation des morts ou utilisez Horreur d'os, vous pouvez animer le double de créatures.
-
-Cet effet persiste pendant 1 minute (concentration).
+* Lorsque vous lancez le sort Animation des morts, vous pouvez animer le double de créatures.
 
 </td>
 
