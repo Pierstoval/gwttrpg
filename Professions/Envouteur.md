@@ -174,7 +174,7 @@ De plus, la cible doit réussir un JS SAG (DD = DD de sauvegarde de vos sorts) s
 
 #### Conjuration de cauchemar
 
-Une fois entre deux repos courts, en action, vous imposez des visions cauchemardesques à une créature que vous pouvez
+Une fois entre deux repos courts, au prix d'une action, vous imposez des visions cauchemardesques à une créature que vous pouvez
 voir à moins de 18 mètres. La cible doit réussir un JS SAG (DD = DD de sauvegarde de vos sorts) sous peine d'être
 effrayée pendant 1 minute (JS SAG à la fin de chacun de ses tours pour mettre fin à l'effet). Tant qu'elle est effrayée,
 sa vitesse de déplacement est réduite de moitié, et elle subit un désavantage à tous ses jets de sauvegarde.

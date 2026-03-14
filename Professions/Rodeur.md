@@ -240,7 +240,7 @@ la distance précise de tout objet ou créature dans votre champ de vision.
 
 #### Tir de barrage
 
-En action, vous pouvez tirer une salve de projectiles sur une zone. Choisissez un point que vous pouvez voir à portée
+Au prix d'une action, vous pouvez tirer une salve de projectiles sur une zone. Choisissez un point que vous pouvez voir à portée
 de votre arme. Toutes les créatures dans un rayon de 3 mètres autour de ce point doivent effectuer un JS DEX (DD = DD de
 sauvegarde de vos sorts) sous peine de subir les dégâts normaux de votre arme + votre modificateur de Dextérité. En cas
 de réussite, elles subissent la moitié des dégâts. Vous consommez une munition par créature dans la zone.
@@ -259,7 +259,7 @@ conditions.
 
 #### Volée
 
-En action, vous déchaînez une pluie de projectiles sur une vaste zone. Choisissez un point que vous pouvez voir à portée
+Au prix d'une action, vous déchaînez une pluie de projectiles sur une vaste zone. Choisissez un point que vous pouvez voir à portée
 de votre arme. Vous effectuez un jet d'attaque séparé contre chaque créature de votre choix dans un rayon de 9 mètres
 autour de ce point (jusqu'à un maximum de créatures égal à votre niveau de rôdeur divisé par deux, arrondi à
 l'inférieur). Chaque attaque réussie inflige les dégâts normaux de votre arme. Vous consommez une munition pour chaque

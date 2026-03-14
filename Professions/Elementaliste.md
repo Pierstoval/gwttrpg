@@ -106,7 +106,7 @@ De plus, lorsque vous vous déplacez d'au moins 6 mètres en ligne droite avant 
 
 #### Invocation de la foudre
 
-*Active, une fois par jour.* En action, vous invoquez la foudre sur un point que vous pouvez voir à moins de 30 mètres. La foudre frappe la cible principale pour 8d10 dégâts de foudre (JS DEX pour la moitié), puis rebondit sur deux autres créatures de votre choix à moins de 9 mètres de la cible principale, leur infligeant chacune 5d10 dégâts de foudre (JS DEX pour la moitié).
+*Active, une fois par jour.* Au prix d'une action, vous invoquez la foudre sur un point que vous pouvez voir à moins de 30 mètres. La foudre frappe la cible principale pour 8d10 dégâts de foudre (JS DEX pour la moitié), puis rebondit sur deux autres créatures de votre choix à moins de 9 mètres de la cible principale, leur infligeant chacune 5d10 dégâts de foudre (JS DEX pour la moitié).
 
 ### Magie de l'eau
 

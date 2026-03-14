@@ -159,7 +159,7 @@ Vous devez annoncer votre intention avant que le résultat du jet d'attaque ne s
 
 #### Posture défensive
 
-Au niveau 10, lorsque vous utilisez l'action "Esquiver", vous pouvez faire une attaque au corps-à-corps en action bonus.
+Au niveau 10, lorsque vous utilisez l'action "Esquiver", vous pouvez faire une attaque au corps-à-corps au prix d'une action bonus.
 
 #### Tête de fer
 

@@ -6,28 +6,28 @@ layout: layout
 
 Le Nécromant est un lanceur de sorts hybride entre Sorcier et Magicien, maître de la mort, des malédictions et du sacrifice. Là où l'Élémentaliste manipule les forces de la nature et l'Envoûteur contrôle les esprits, le Nécromant puise sa puissance dans les énergies nécrotiques, les âmes des défunts et son propre sang.
 
-| Niveau | Bonus de maîtrise |            Aptitudes            | Sorts mineurs | 1e niv | 2e niv | 3e niv | 4e niv | 5e niv | 6e niv | 7e niv | 8e niv | 9e niv |
-|:------:|:-----------------:|:-------------------------------:|---------------|--------|--------|--------|--------|--------|--------|--------|--------|--------|
-|   1    |        +2         |        Moisson des Âmes         | 3             | 2      |        |        |        |        |        |        |        |        |
-|   2    |        +2         |                                 | 3             | 3      |        |        |        |        |        |        |        |        |
-|   3    |        +2         |                                 | 3             | 4      | 2      |        |        |        |        |        |        |        |
-|   4    |        +2         |         +2 à une carac          | 4             | 4      | 3      |        |        |        |        |        |        |        |
-|   5    |        +3         |  Moisson des Âmes 2, Lien Noir  | 4             | 4      | 3      | 2      |        |        |        |        |        |        |
-|   6    |        +3         |         +2 à une carac          | 4             | 4      | 3      | 3      |        |        |        |        |        |        |
-|   7    |        +3         |                                 | 4             | 4      | 3      | 3      | 1      |        |        |        |        |        |
-|   8    |        +3         |         +2 à une carac          | 4             | 4      | 3      | 3      | 2      |        |        |        |        |        |
-|   9    |        +4         | Moisson des Âmes 3, Lien Noir 2 | 4             | 4      | 3      | 3      | 3      | 1      |        |        |        |        |
-|   10   |        +4         |                                 | 5             | 4      | 3      | 3      | 3      | 2      |        |        |        |        |
-|   11   |        +4         |                                 | 5             | 4      | 3      | 3      | 3      | 2      | 1      |        |        |        |
-|   12   |        +4         |         +2 à une carac          | 5             | 4      | 3      | 3      | 3      | 2      | 1      |        |        |        |
-|   13   |        +5         | Moisson des Âmes 4, Lien Noir 3 | 5             | 4      | 3      | 3      | 3      | 2      | 1      | 1      |        |        |
-|   14   |        +5         |         +2 à une carac          | 5             | 4      | 3      | 3      | 3      | 2      | 1      | 1      |        |        |
-|   15   |        +5         |                                 | 5             | 4      | 3      | 3      | 3      | 2      | 1      | 1      | 1      |        |
-|   16   |        +5         |         +2 à une carac          | 5             | 4      | 3      | 3      | 3      | 2      | 1      | 1      | 1      |        |
-|   17   |        +6         | Moisson des Âmes 5, Lien Noir 4 | 5             | 4      | 3      | 3      | 3      | 2      | 1      | 1      | 1      | 1      |
-|   18   |        +6         |                                 | 5             | 4      | 3      | 3      | 3      | 3      | 1      | 1      | 1      | 1      |
-|   19   |        +6         |         +2 à une carac          | 5             | 4      | 3      | 3      | 3      | 3      | 2      | 1      | 1      | 1      |
-|   20   |        +6         |                                 | 5             | 4      | 3      | 3      | 3      | 3      | 2      | 2      | 1      | 1      |
+| Niveau | Bonus de maîtrise |                      Aptitudes                       | Sorts mineurs | 1e niv | 2e niv | 3e niv | 4e niv | 5e niv | 6e niv | 7e niv | 8e niv | 9e niv |
+|:------:|:-----------------:|:----------------------------------------------------:|---------------|--------|--------|--------|--------|--------|--------|--------|--------|--------|
+|   1    |        +2         |                   Moisson des Âmes                   | 3             | 2      |        |        |        |        |        |        |        |        |
+|   2    |        +2         |                                                      | 3             | 3      |        |        |        |        |        |        |        |        |
+|   3    |        +2         |                 Aptitude d'archétype                 | 3             | 4      | 2      |        |        |        |        |        |        |        |
+|   4    |        +2         |                    +2 à une carac                    | 4             | 4      | 3      |        |        |        |        |        |        |        |
+|   5    |        +3         |            Moisson des Âmes 2, Lien Noir             | 4             | 4      | 3      | 2      |        |        |        |        |        |        |
+|   6    |        +3         |                    +2 à une carac                    | 4             | 4      | 3      | 3      |        |        |        |        |        |        |
+|   7    |        +3         |                 Aptitude d'archétype                 | 4             | 4      | 3      | 3      | 1      |        |        |        |        |        |
+|   8    |        +3         |                    +2 à une carac                    | 4             | 4      | 3      | 3      | 2      |        |        |        |        |        |
+|   9    |        +4         |           Moisson des Âmes 3, Lien Noir 2            | 4             | 4      | 3      | 3      | 3      | 1      |        |        |        |        |
+|   10   |        +4         |                 Aptitude d'archétype                 | 5             | 4      | 3      | 3      | 3      | 2      |        |        |        |        |
+|   11   |        +4         |                  Explosion Putride                   | 5             | 4      | 3      | 3      | 3      | 2      | 1      |        |        |        |
+|   12   |        +4         |                    +2 à une carac                    | 5             | 4      | 3      | 3      | 3      | 2      | 1      |        |        |        |
+|   13   |        +5         |           Moisson des Âmes 4, Lien Noir 3            | 5             | 4      | 3      | 3      | 3      | 2      | 1      | 1      |        |        |
+|   14   |        +5         |         +2 à une carac, Explosion Putride 2          | 5             | 4      | 3      | 3      | 3      | 2      | 1      | 1      |        |        |
+|   15   |        +5         |                 Aptitude d'archétype                 | 5             | 4      | 3      | 3      | 3      | 2      | 1      | 1      | 1      |        |
+|   16   |        +5         |                    +2 à une carac                    | 5             | 4      | 3      | 3      | 3      | 2      | 1      | 1      | 1      |        |
+|   17   |        +6         | Moisson des Âmes 5, Lien Noir 4, Explosion Putride 3 | 5             | 4      | 3      | 3      | 3      | 2      | 1      | 1      | 1      | 1      |
+|   18   |        +6         |                 Aptitude d'archétype                 | 5             | 4      | 3      | 3      | 3      | 3      | 1      | 1      | 1      | 1      |
+|   19   |        +6         |                    +2 à une carac                    | 5             | 4      | 3      | 3      | 3      | 3      | 2      | 1      | 1      | 1      |
+|   20   |        +6         |                 Explosion Putride 4                  | 5             | 4      | 3      | 3      | 3      | 3      | 2      | 2      | 1      | 1      |
 
 ## Points de vie
 
@@ -158,60 +158,61 @@ Toutes les cibles que vous choissisez à moins de 3 mètres de vous et qui peuve
 
 ### Magie du sang
 
-La Magie du Sang est l'art du sacrifice : le Nécromant puise dans ses propres forces vitales pour alimenter des
-sorts dévastateurs, drainer la vie de ses ennemis et forger des pactes sanglants avec les forces obscures.
+La Magie du Sang est l'art du sacrifice : le Nécromant puise dans ses propres forces vitales pour alimenter des sorts dévastateurs, drainer la vie de ses ennemis et forger des pactes sanglants avec les forces obscures.
 
-| Niveau | Aptitude            |
-|--------|:--------------------|
-| 3      | Rituel sanglant     |
-| 7      | Siphon de vie       |
-| 10     | Pacte de sang       |
-| 15     | Puits de sang       |
-| 18     | Le sang est pouvoir |
+| Niveau | Aptitude         |
+|--------|:-----------------|
+| 3      | Rituel de sang   |
+| 7      | Siphon de vie    |
+| 10     | Lien du sang     |
+| 15     | Offrande de sang |
+| 18     | Pouvoir du sang  |
 
-#### Rituel sanglant
+#### Rituel de sang
 
-Vous pouvez sacrifier des PV pour alimenter votre magie. En action bonus, vous pouvez perdre un nombre de PV égal à
-5 × le niveau d'un emplacement de sort pour récupérer cet emplacement de sort consommé. Les PV perdus ne peuvent pas
-être regagnés par la magie jusqu'à la fin d'un repos court. Vous ne pouvez pas utiliser cette aptitude si cela
-réduirait vos PV à 0.
+Vous pouvez sacrifier des PV pour alimenter votre magie. Au prix d'une action bonus, vous pouvez perdre un nombre de PV égal à 4 fois le niveau d'un emplacement de sort pour récupérer cet emplacement de sort consommé.
+Vous ne pouvez pas utiliser cette aptitude si cela réduirait vos PV à 0.
 
-Vous pouvez utiliser cette aptitude un nombre de fois égal à votre modificateur d'Intelligence (minimum 1) entre deux
-repos longs.
+Vous pouvez utiliser cette aptitude un nombre de fois égal à votre modificateur d'Intelligence (minimum 1) entre deux repos longs.
 
 #### Siphon de vie
 
-Lorsque vous infligez des dégâts nécrotiques à une créature, vous regagnez un nombre de PV égal à la moitié des dégâts
-nécrotiques infligés. Si vous êtes déjà à votre maximum de PV, vous gagnez les PV en excès sous forme de PV temporaires
-(qui ne se cumulent pas, maximum égal à votre niveau de Nécromant).
+Lorsque vous infligez des dégâts nécrotiques à une créature, vous regagnez un nombre de PV égal à la moitié des dégâts nécrotiques infligés.
+Si vous êtes déjà à votre maximum de PV, alors le nombre de PV au-dessus de votre maximum sera infligé sous forme de dégâts nécrotiques supplémentaires à cet adversaire.
 
-#### Pacte de sang
+#### Lien du sang
 
-Une fois entre deux repos longs, en action, vous créez un lien de sang entre vous et un allié consentant à moins de
-9 mètres, pour une durée de 8 heures. Tant que le pacte est actif :
+Une fois entre deux repos longs, au prix d'une action, vous créez un lien de sang entre vous et un allié consentant à moins de 9 mètres, pour une durée de 8 heures.
+
+Tant que le pacte est actif :
 
 * L'allié ajoute votre modificateur d'Intelligence à ses jets de sauvegarde contre les sorts.
 * Lorsque l'allié subit des dégâts, vous pouvez utiliser votre réaction pour subir la moitié de ces dégâts à sa place.
-* Lorsque vous lancez un sort de soin sur l'allié, les PV restaurés sont augmentés de votre niveau de Nécromant.
+* Les PV récupérés par "Rituel de sang" peuvent être donnés à votre allié, au lieu de vous-même.
 
-#### Puits de sang
+#### Offrande de sang
 
-Une fois entre deux repos longs, en action, vous créez un puits d'énergie sanglante dans un rayon de 6 mètres centré
-sur un point que vous pouvez voir à moins de 18 mètres, pendant un nombre de rounds égal à votre modificateur
-d'Intelligence (concentration). Le puits a les effets suivants :
+Les propriétés de votre sang deviennent magiques.
 
-* Toute créature hostile qui commence son tour dans la zone ou y entre subit 2d8 dégâts nécrotiques (JS CON pour la
-  moitié).
-* Vous et vos alliés dans la zone regagnez un nombre de PV égal aux dégâts infligés aux créatures hostiles dans la zone
-  (partagés équitablement, arrondi à l'inférieur).
+Une fois entre deux repos longs, vous pouvez, au prix d'une action, et en utilisant une arme tranchante ou un outil propice, perdre un nombre de PV d'un maximum de 2 fois votre modificateur d'Intelligence pour extraire une partie de votre sang dans un sombre rituel.
 
-#### Le sang est pouvoir
+Vous ne pouvez pas faire tomber vos PV à zéro par ce biais.
 
-*Active, une fois par jour.* En action, vous canalisez l'intégralité de votre force vitale dans un sort dévastateur.
+Les effets et usages possible de ce sang sont les suivants :
+
+- Le sang peut être bu par toute créature vivante pour restaurer un nombre de PV, ou infliger des dégâts (selon votre volonté à cet instant) équivalent au nombre de PV que vous avez perdu. Cet effet peut aussi se produire, avec une valeur réduite de moitié (arrondie à l'inférieur) si le sang est versé sur une créature, vivante ou non.
+- Il peut recouvrir un objet ou une surface pour en masquer les propriétés magiques.
+- Il peut servir de composante matérielle pour n'importe quel sort ou rituel, la valeur correspondante est de 10 PO par PV perdu.
+- Toute dilution en diminue les effets de façon proportionnelle.
+- Si voous ne l'utilisez pas, tous ses effets disparaissent au bout de 2 heures si le sang n'est pas conservé dans un contenant fermé, et 2 jours s'il est conservé dans une fiole ou une bouteille fermée. Vous pouvez donc avoir un maximum de 2 fioles par le biais de cette aptitude.
+
+#### Pouvoir du sang
+
+Une fois par jour, au prix d'une action, vous canalisez l'intégralité de votre force vitale dans un sort dévastateur.
+
 Vous perdez la moitié de vos PV actuels (arrondi au supérieur, minimum 1), et en échange :
 
-* Votre prochain sort de Nécromant lancé avant la fin de votre prochain tour est automatiquement lancé au niveau
-  maximum dont vous disposez, sans consommer d'emplacement de sort.
+* Votre prochain sort de Nécromant lancé avant la fin de votre prochain tour est automatiquement lancé au niveau maximum dont vous disposez, sans consommer d'emplacement de sort.
 * Ce sort ignore les résistances aux dégâts nécrotiques et traite les immunités comme des résistances.
 * Si le sort nécessite un jet de sauvegarde, les cibles le font avec un désavantage.
 
@@ -235,7 +236,7 @@ terrain de désolation.
 
 #### Horreur d'os
 
-En action, vous animez les restes d'une créature morte à moins de 9 mètres pour créer un squelette ou un zombi
+Au prix d'une action, vous animez les restes d'une créature morte à moins de 9 mètres pour créer un squelette ou un zombi
 (selon les restes disponibles), comme avec le sort Animation des morts. Le mort-vivant créé bénéficie d'un bonus à ses
 PV maximum égal à votre niveau de Nécromant et ajoute votre bonus de maîtrise à ses jets d'attaque et de dégâts.
 
@@ -271,7 +272,7 @@ Ce Golem ne compte pas dans la limite de morts-vivants de l'aptitude Horreur d'o
 
 #### Nova de mort
 
-Une fois entre deux repos longs, en action, vous pouvez sacrifier l'un de vos morts-vivants actifs à moins de 18
+Une fois entre deux repos longs, au prix d'une action, vous pouvez sacrifier l'un de vos morts-vivants actifs à moins de 18
 mètres pour déclencher une explosion nécrotique. Toutes les créatures hostiles dans un rayon de 6 mètres autour du
 mort-vivant sacrifié doivent réussir un JS CON (DD = DD de sauvegarde de vos sorts) sous peine de subir 6d10 dégâts
 nécrotiques et d'être empoisonnées pendant 1 minute (JS CON à la fin de chacun de ses tours pour mettre fin à l'effet).

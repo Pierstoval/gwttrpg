@@ -141,7 +141,7 @@ sont augmentés d'un montant égal à votre modificateur de Sagesse.
 
 #### Brise de soin
 
-Une fois entre deux repos courts, en action bonus, vous créez une brise curative autour d'un allié que vous pouvez voir
+Une fois entre deux repos courts, au prix d'une action bonus, vous créez une brise curative autour d'un allié que vous pouvez voir
 à moins de 18 mètres. Pendant 1 minute (concentration), au début de chacun de ses tours, la cible regagne 1d6 + votre
 modificateur de Sagesse PV. Les PV régénérés passent à 2d6 au niveau 15.
 
@@ -153,14 +153,14 @@ les suivantes : aveuglé, assourdi, empoisonné, paralysé, pétrifié. Vous pou
 
 #### Mot de guérison suprême
 
-Une fois entre deux repos longs, en action, vous prononcez un mot de pouvoir divin. Chaque allié de votre choix que vous
+Une fois entre deux repos longs, au prix d'une action, vous prononcez un mot de pouvoir divin. Chaque allié de votre choix que vous
 pouvez voir à moins de 18 mètres regagne un nombre de PV égal à 4d8 + votre modificateur de Sagesse. Les créatures
 affectées sont également débarrassées de toutes les conditions suivantes : aveuglé, assourdi, charmé, effrayé,
 empoisonné, étourdi.
 
 #### Lumière de la délivrance
 
-*Active, une fois par jour.* En action, vous libérez une vague de lumière divine dans un rayon de 18 mètres autour de
+*Active, une fois par jour.* Au prix d'une action, vous libérez une vague de lumière divine dans un rayon de 18 mètres autour de
 vous. Chaque allié dans la zone regagne un nombre de PV égal à 8d8 + votre modificateur de Sagesse, et tous les effets
 magiques néfastes les affectant prennent fin. Les créatures mortes depuis moins d'1 minute dans la zone sont ramenées
 à la vie avec 1 PV.
@@ -185,7 +185,7 @@ infligés.
 
 #### Esprit protecteur
 
-En action bonus, vous pouvez placer une bénédiction protectrice sur un allié que vous pouvez voir à moins de 18 mètres,
+Au prix d'une action bonus, vous pouvez placer une bénédiction protectrice sur un allié que vous pouvez voir à moins de 18 mètres,
 pour une durée de 1 minute (concentration). Tant que la bénédiction est active, chaque fois que la cible subit des
 dégâts, ces dégâts sont réduits d'un montant égal à votre modificateur de Sagesse + la moitié de votre bonus de
 maîtrise (arrondi à l'inférieur). Cet effet ne peut pas réduire les dégâts en dessous de 1.
@@ -198,20 +198,20 @@ de Sagesse. Les dégâts absorbés passent à 3d8 au niveau 10 et 4d8 au niveau 
 
 #### Égide
 
-Une fois entre deux repos longs, en action, vous invoquez un bouclier divin protégeant vous et vos alliés. Pendant
+Une fois entre deux repos longs, au prix d'une action, vous invoquez un bouclier divin protégeant vous et vos alliés. Pendant
 1 minute (concentration), vous et chaque allié à moins de 9 mètres de vous bénéficiez d'un bonus de +2 à la CA.
 De plus, la première attaque qui touche chaque créature protégée à chaque round est automatiquement manquée.
 
 #### Lien protecteur
 
-En action bonus, vous créez un lien mystique entre vous et un allié que vous pouvez voir à moins de 18 mètres, pour
+Au prix d'une action bonus, vous créez un lien mystique entre vous et un allié que vous pouvez voir à moins de 18 mètres, pour
 une durée de 1 minute (concentration). Tant que le lien est actif, chaque fois que l'allié subit des dégâts, vous
 pouvez choisir de subir la moitié de ces dégâts à sa place (ces dégâts ne peuvent pas être réduits ou évités de quelque
 manière que ce soit). L'allié ne subit alors que la moitié des dégâts originaux.
 
 #### Esprit de préservation
 
-*Active, une fois par jour.* En action, vous invoquez un esprit divin qui plane au-dessus du champ de bataille pendant
+*Active, une fois par jour.* Au prix d'une action, vous invoquez un esprit divin qui plane au-dessus du champ de bataille pendant
 1 minute (concentration). L'esprit se manifeste en un point que vous pouvez voir à moins de 18 mètres.
 Chaque allié à moins de 9 mètres de l'esprit bénéficie des effets suivants :
 
@@ -247,7 +247,7 @@ courts.
 
 #### Bénédiction de la force
 
-En action bonus, vous bénissez l'arme d'un allié que vous pouvez voir à moins de 9 mètres (ou votre propre arme)
+Au prix d'une action bonus, vous bénissez l'arme d'un allié que vous pouvez voir à moins de 9 mètres (ou votre propre arme)
 pendant 1 minute (concentration). L'arme bénie inflige des dégâts radiants supplémentaires égaux à votre modificateur
 de Sagesse à chaque attaque réussie, et est considérée comme magique pour ce qui est de surmonter les résistances et
 immunités.
@@ -264,14 +264,14 @@ sauvegarde de vos sorts) sous peine d'être aveuglé jusqu'à la fin de son proc
 
 #### Colère de Balthazar
 
-Une fois entre deux repos longs, en action, vous invoquez la fureur du dieu de la guerre. Pendant 1 minute
+Une fois entre deux repos longs, au prix d'une action, vous invoquez la fureur du dieu de la guerre. Pendant 1 minute
 (concentration), une aura de flammes divines vous entoure dans un rayon de 3 mètres. Toute créature hostile qui
 commence son tour dans l'aura ou y entre pour la première fois subit 3d8 dégâts radiants (JS DEX pour la moitié).
 De plus, vos sorts qui infligent des dégâts radiants infligent un dé de dégâts supplémentaire.
 
 #### Rétribution sacrée
 
-*Active, une fois par jour.* En action, vous marquez un nombre de créatures hostiles que vous pouvez voir égal à votre
+*Active, une fois par jour.* Au prix d'une action, vous marquez un nombre de créatures hostiles que vous pouvez voir égal à votre
 modificateur de Sagesse (minimum 2), toutes à moins de 18 mètres. Pendant 1 minute (concentration), chaque fois qu'une
 créature marquée inflige des dégâts à vous ou à un allié, elle subit immédiatement des dégâts radiants égaux à la
 moitié des dégâts qu'elle a infligés. Si une créature marquée est réduite à 0 PV, l'énergie divine libérée soigne
