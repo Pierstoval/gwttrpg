@@ -1,3 +1,7 @@
+---
+layout: layout
+---
+
 # Moine
 
 Le Moine de Guild Wars est un serviteur des dieux, dévoué à la protection et à la guérison de ses alliés. Contrairement

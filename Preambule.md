@@ -1,3 +1,7 @@
+---
+layout: layout
+---
+
 # Description des règles
 
 ## Origine

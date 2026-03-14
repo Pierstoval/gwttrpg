@@ -1,3 +1,7 @@
+---
+layout: layout
+---
+
 # Envoûteur
 
 L'Envoûteur est un lanceur de sorts hybride entre Magicien et Ensorceleur, spécialisé dans la manipulation mentale, les illusions et le contrôle de l'environnement.

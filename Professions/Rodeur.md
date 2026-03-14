@@ -1,3 +1,7 @@
+---
+layout: layout
+---
+
 # Rôdeur
 
 Le rôdeur est focalisé sur le combat à distance (arcs et arbalètes). Il dispose d'un compagnon animal quel que soit son archétype, et lance ses sorts comme un lanceur de sorts (comme dans D&D5). Sa caractéristique d'incantation est la Sagesse.

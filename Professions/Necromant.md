@@ -1,3 +1,7 @@
+---
+layout: layout
+---
+
 # Nécromant
 
 Le Nécromant est un lanceur de sorts hybride entre Sorcier et Magicien, maître de la mort, des malédictions et du sacrifice. Là où l'Élémentaliste manipule les forces de la nature et l'Envoûteur contrôle les esprits, le Nécromant puise sa puissance dans les énergies nécrotiques, les âmes des défunts et son propre sang.

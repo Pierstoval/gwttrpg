@@ -1,3 +1,7 @@
+---
+layout: layout
+---
+
 # Guerrier
 
 Le guerrier est similaire à celui de base du SRD de D&D5, mais est focalisé sur le corps-à-corps, d'où les quelques changements dans les styles de combat et archétypes.

@@ -1,3 +1,7 @@
+---
+layout: layout
+---
+
 # Élémentaliste
 
 Pour cette profession, il y a plusieurs règles qui diffèrent largement avec D&D5.
