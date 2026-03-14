@@ -4,17 +4,11 @@ layout: layout
 
 # Moine
 
-Le Moine de Guild Wars est un serviteur des dieux, dévoué à la protection et à la guérison de ses alliés. Contrairement
-au Clerc de D&D5 dont il s'inspire, le Moine de Guild Wars est avant tout un soigneur et un protecteur, rarement en
-première ligne. Il porte des armures plus légères et se concentre sur le soutien divin plutôt que sur le combat direct.
+Le Moine de Guild Wars est un serviteur des dieux, dévoué à la protection et à la guérison de ses alliés. Contrairement au Clerc de D&D5 dont il s'inspire, le Moine de Guild Wars est avant tout un soigneur et un protecteur, rarement en première ligne. Il porte des armures plus légères et se concentre sur le soutien divin plutôt que sur le combat direct.
 
-Sa caractéristique d'incantation est la Sagesse, reflet de sa connexion profonde avec les forces divines. Le Moine
-prépare ses sorts comme un Clerc : il a accès à l'intégralité de sa liste de sorts et en prépare un certain nombre
-chaque jour (niveau de Moine + modificateur de Sagesse, minimum 1).
+Sa caractéristique d'incantation est la Sagesse, reflet de sa connexion profonde avec les forces divines. Le Moine prépare ses sorts comme un Clerc : il a accès à l'intégralité de sa liste de sorts et en prépare un certain nombre chaque jour (niveau de Moine + modificateur de Sagesse, minimum 1).
 
-L'attribut principal du Moine dans Guild Wars est la **Faveur Divine**, qui traduit sa connexion privilégiée avec les
-dieux et amplifie l'efficacité de ses soins et protections. Cet attribut est représenté par une aptitude globale qui
-évolue avec le niveau.
+L'attribut principal du Moine dans Guild Wars est la **Faveur Divine**, qui traduit sa connexion privilégiée avec les dieux et amplifie l'efficacité de ses soins et protections. Cet attribut est représenté par une aptitude globale qui évolue avec le niveau.
 
 | Niveau | Bonus de maîtrise |                        Aptitudes                         | Sorts mineurs | 1e niv | 2e niv | 3e niv | 4e niv | 5e niv | 6e niv | 7e niv | 8e niv | 9e niv |
 |:------:|:-----------------:|:--------------------------------------------------------:|---------------|--------|--------|--------|--------|--------|--------|--------|--------|--------|
