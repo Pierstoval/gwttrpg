@@ -70,7 +70,7 @@ Vous bénéficiez d'un avantage aux jets de sauvegarde de Sagesse contre les sor
 
 Vous bénéficiez également d'un avantage à tous les jets d'attaque, magiques ou non, contre les créatures mort-vivantes, aberrations, démons, et monstruosités.
 
-De plus, lorsque vous lancez un sort avec un effet bénéfique sur une créature alliée, celle-ci regagne un nombre de PV équivalent à votre Bonus de maîtrise additionné de votre modificateur de Sagesse.
+De plus, lorsque vous lancez un sort avec un effet bénéfique sur une créature alliée (hors aptitudes d'archétypes), celle-ci regagne un nombre de PV équivalent à votre Bonus de maîtrise additionné de votre modificateur de Sagesse.
 
 ### Aura sacrée
 
@@ -147,51 +147,85 @@ Les coûts des composantes matérielles de tous les sorts de résurrection sont 
 
 ### Prières de protection
 
-Les Prières de Protection érigent des boucliers divins, réduisent les dégâts subis et améliorent la défense.
+Les Prières de Protection érigent des boucliers divins, renforcent la résistance des alliés et manipulent les flux de dégâts de manière unique. Le Moine protecteur ne se contente pas de réduire les dégâts : il transforme les situations désespérées en retournements de situation.
 
-| Niveau | Aptitude               |
-|--------|:-----------------------|
-| 3      | Esprit protecteur      |
-| 7      | Bouclier d'absorption  |
-| 10     | Égide                  |
-| 15     | Lien protecteur        |
-| 18     | Esprit de préservation |
+| Niveau | Aptitude                 |
+|--------|:-------------------------|
+| 3      | Marque de protection     |
+| 7      | Bénédiction vitale       |
+| 10     | Atmosphère enchanteresse |
+| 15     | Gardien pensif           |
+| 18     | Lien spirituel           |
 
-#### Esprit protecteur
+#### Marque de protection
 
-Au prix d'une action bonus, vous pouvez placer une bénédiction protectrice sur un allié que vous pouvez voir à moins de 18 mètres,
-pour une durée de 1 minute (concentration). Tant que la bénédiction est active, chaque fois que la cible subit des
-dégâts, ces dégâts sont réduits d'un montant égal à votre modificateur de Sagesse + la moitié de votre bonus de
-maîtrise (arrondi à l'inférieur). Cet effet ne peut pas réduire les dégâts en dessous de 1.
+Au prix d'une action bonus, vous inscrivez une marque divine sur un allié que vous pouvez voir à moins de 18 mètres, pour une durée d'1 minute (concentration).
 
-#### Bouclier d'absorption
+Tant que la marque est active, chaque fois que l'allié subit des dégâts, ceux-ci sont transformés en soin.
 
-Une fois entre deux repos courts, en réaction lorsqu'un allié à moins de 18 mètres subit des dégâts, vous pouvez
-ériger un bouclier divin autour de lui. Les dégâts de l'attaque déclencheuse sont réduits de 2d8 + votre modificateur
-de Sagesse. Les dégâts absorbés passent à 3d8 au niveau 10 et 4d8 au niveau 15.
+Cette marque peut protéger contre les dégâts environnementaux (chute, chaleur ou froid extrême, pièges physiques) en appliquant le même plafond, rendant l'allié marqué beaucoup plus résistant aux dangers d'exploration tant que vous maintenez votre concentration. Vous pouvez également inscrire la marque sur vous-même.
 
-#### Égide
+Le sort prend fin lorsque le total de dégâts subis (ou de soins prodigués par ce biais) atteint une valeur équivalente à votre niveau de Moine + votre Bonus de Maîtrise, ou lorsque vous décidez de l'arrêter pour une action gratuite.
 
-Une fois entre deux repos longs, au prix d'une action, vous invoquez un bouclier divin protégeant vous et vos alliés. Pendant
-1 minute (concentration), vous et chaque allié à moins de 9 mètres de vous bénéficiez d'un bonus de +2 à la CA.
-De plus, la première attaque qui touche chaque créature protégée à chaque round est automatiquement manquée.
+Vous pouvez utiliser cette aptitude une fois entre deux repos longs, puis 2 fois à partir du niveau 8, et 3 fois à partir du niveau 13.
 
-#### Lien protecteur
+#### Bénédiction vitale
 
-Au prix d'une action bonus, vous créez un lien mystique entre vous et un allié que vous pouvez voir à moins de 18 mètres, pour
-une durée de 1 minute (concentration). Tant que le lien est actif, chaque fois que l'allié subit des dégâts, vous
-pouvez choisir de subir la moitié de ces dégâts à sa place (ces dégâts ne peuvent pas être réduits ou évités de quelque
-manière que ce soit). L'allié ne subit alors que la moitié des dégâts originaux.
+Au prix d'une action, vous touchez un allié et le bénissez avec une vitalité divine.
 
-#### Esprit de préservation
+Pendant 8 heures, le maximum de PV de l'allié augmente d'un montant égal à deux fois votre modificateur de Sagesse + votre bonus de maîtrise.
+L'allié regagne immédiatement un nombre de PV égal à cette augmentation.
+Lorsque l'effet prend fin, le maximum de PV revient à la normale, et les PV actuels de l'allié sont réduits en conséquence s'ils dépassent le nouveau maximum. Si la réduction de son nombre de PV devait l'amener à 0 PV, cela l'amène à 1 PV à la place.
 
-*Active, une fois par jour.* Au prix d'une action, vous invoquez un esprit divin qui plane au-dessus du champ de bataille pendant
-1 minute (concentration). L'esprit se manifeste en un point que vous pouvez voir à moins de 18 mètres.
-Chaque allié à moins de 9 mètres de l'esprit bénéficie des effets suivants :
+Ces PV sont considérés comme une valeur réelle de PV maximums, et **pas** comme des PV temporaires.
 
-* Résistance à tous les types de dégâts.
-* Immunité aux conditions effrayé et charmé.
-* Au début de chacun de leurs tours, ils regagnent un nombre de PV égal à votre modificateur de Sagesse.
+Vous ne pouvez bénir qu'un seul allié à la fois de cette façon (vous pouvez également vous bénir vous-même).
+Si vous bénissez un nouvel allié, la bénédiction précédente prend fin immédiatement.
+
+Vous pouvez utiliser cette aptitude un nombre de fois égal à votre modificateur de Sagesse (minimum 1) entre deux repos longs.
+
+#### Atmosphère enchanteresse
+
+Votre maîtrise des protections divines vous permet de maintenir plusieurs enchantements simultanément avec une efficacité supérieure.
+
+Lorsque vous maintenez la concentration sur un sort de protection sur vous-même ou sur un allié, vous pouvez lancer un deuxième sort de protection nécessitant la concentration sans perdre la concentration sur le premier. Les deux sorts fonctionnent normalement et simultanément.
+Cependant, si vous ratez un jet de sauvegarde de Constitution pour maintenir votre concentration (suite à des dégâts subis, par exemple), les deux sorts prennent fin.
+
+À partir du niveau 17, vous pouvez maintenir votre concentration sur 3 sorts de protection maximum.
+
+#### Gardien pensif
+
+Lorsque vous lancez un sort de protection sur un allié, celui-ci gagne un gardien pensif invisible qui persiste jusqu'à la fin de votre prochain tour.
+
+Tant que le gardien est actif, le prochain sort hostile qui cible l'allié protégé est automatiquement renvoyé vers le lanceur original :
+
+* Si le sort nécessitait un jet d'attaque de sort, le lanceur original doit effectuer un JS DEX (DD = DD de sauvegarde de vos sorts) sous peine de subir l'effet de son propre sort.
+* Si le sort imposait un JS à votre allié, c'est le lanceur original qui doit à la place effectuer ce JS contre son propre sort.
+
+Le gardien se consomme après avoir renvoyé un sort, qu'il ait réussi ou non. Chaque allié ne peut bénéficier que d'un seul gardien pensif à la fois.
+
+Le gardien protège également contre les tentatives de scrutation magique, les malédictions passives et les pièges magiques à déclenchement par sort.
+
+Lorsqu'un sort est ainsi renvoyé, et si la source du sort n'est pas visible pour vous, vous percevez une vision fugace de la source du sort (apparence du lanceur, direction approximative, nature de la magie), ce qui permet de localiser un ennemi caché, d'identifier la nature d'une menace invisible, ou de détecter un mécanisme activant des pièges magiques.
+
+Si l'origine du sortilège renvoyé est elle-même magique, cette même origine a forcément été créée par un lanceur de sorts, ou une entité supérieure. Le sort sera quand même renvoyé, mais il est à la discrétion de votre MJ d'adapter ces effets selon la source.
+
+#### Lien spirituel
+
+Vous pouvez établir un lien spirituel permanent avec un allié que vous touchez, au prix d'une action.
+Ce lien ne requiert pas de concentration et persiste tant que vous et l'allié êtes tous les deux conscients et à moins de 30 mètres l'un de l'autre.
+Vous ne pouvez maintenir qu'un seul lien spirituel à la fois.
+Si votre allié s'éloigne à plus de 30 mètres, le lien continue de persister, seuls ses effets actifs ne peuvent se produire (voir plus loin).
+
+Vous pouvez couper ce lien spirituel à n'importe quel moment pour une action gratuite.
+
+Ce lien vous permet de percevoir en permanence l'état de santé et l'état émotionnel de votre allié lié : vous savez s'il est blessé, empoisonné, effrayé, en colère, ou serein.
+Si votre allié est en danger mortel, vous le ressentez immédiatement, quelle que soit la distance entre vous (même au-delà des 30 mètres habituels), ce qui est particulièrement utile lorsque le groupe se sépare pour explorer ou monter la garde.
+
+Lorsque l'allié est à moins de 30 mètres, les effets actifs sont les suivants :
+- L'effet de "Faveur Divine" sur cet allié est doublé.
+- Si l'allié lié subit des dégâts d'une source unique dont le total est supérieur à la moitié de ses PV actuels, le lien se manifeste : les dégâts sont automatiquement réduits d'une valeur équivalente au nombre de PV octroyés par votre Faveur Divine doublée (conformément au point précédent). Cet effet ne peut se déclencher qu'une fois par round.
+- Cet allié lié bénéficie d'un bonus à tous ses jets de sauvegarde équivalent à votre BM.
 
 </td>
 
