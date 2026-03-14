@@ -4,29 +4,29 @@ layout: layout
 
 # Nécromant
 
-Le Nécromant est un lanceur de sorts hybride entre Sorcier et Magicien, maître de la mort, des malédictions et du sacrifice. Là où l'Élémentaliste manipule les forces de la nature et l'Envoûteur contrôle les esprits, le Nécromant puise sa puissance dans les énergies nécrotiques, les âmes des défunts et son propre sang.
+Le Nécromant est un lanceur de sorts hybride entre Sorcier et Magicien, maître de la mort, des malédictions et du sacrifice, et puise sa puissance dans les énergies nécrotiques, les âmes des défunts et son propre sang.
 
-| Niveau | Bonus de maîtrise |                      Aptitudes                       | Sorts mineurs | 1e niv | 2e niv | 3e niv | 4e niv | 5e niv | 6e niv | 7e niv | 8e niv | 9e niv |
-|:------:|:-----------------:|:----------------------------------------------------:|---------------|--------|--------|--------|--------|--------|--------|--------|--------|--------|
-|   1    |        +2         |                   Moisson des Âmes                   | 3             | 2      |        |        |        |        |        |        |        |        |
-|   2    |        +2         |                                                      | 3             | 3      |        |        |        |        |        |        |        |        |
-|   3    |        +2         |                 Aptitude d'archétype                 | 3             | 4      | 2      |        |        |        |        |        |        |        |
-|   4    |        +2         |                    +2 à une carac                    | 4             | 4      | 3      |        |        |        |        |        |        |        |
-|   5    |        +3         |            Moisson des Âmes 2, Lien Noir             | 4             | 4      | 3      | 2      |        |        |        |        |        |        |
-|   6    |        +3         |                    +2 à une carac                    | 4             | 4      | 3      | 3      |        |        |        |        |        |        |
-|   7    |        +3         |                 Aptitude d'archétype                 | 4             | 4      | 3      | 3      | 1      |        |        |        |        |        |
-|   8    |        +3         |                    +2 à une carac                    | 4             | 4      | 3      | 3      | 2      |        |        |        |        |        |
-|   9    |        +4         |           Moisson des Âmes 3, Lien Noir 2            | 4             | 4      | 3      | 3      | 3      | 1      |        |        |        |        |
-|   10   |        +4         |                 Aptitude d'archétype                 | 5             | 4      | 3      | 3      | 3      | 2      |        |        |        |        |
+| Niveau | Bonus de maîtrise |                    Aptitudes                     | Sorts mineurs | 1e niv | 2e niv | 3e niv | 4e niv | 5e niv | 6e niv | 7e niv | 8e niv | 9e niv |
+|:------:|:-----------------:|:------------------------------------------------:|---------------|--------|--------|--------|--------|--------|--------|--------|--------|--------|
+|   1    |        +2         |                 Moisson des Âmes                 | 3             | 2      |        |        |        |        |        |        |        |        |
+|   2    |        +2         |                                                  | 3             | 3      |        |        |        |        |        |        |        |        |
+|   3    |        +2         |               Aptitude d'archétype               | 3             | 4      | 2      |        |        |        |        |        |        |        |
+|   4    |        +2         |                  +2 à une carac                  | 4             | 4      | 3      |        |        |        |        |        |        |        |
+|   5    |        +3         |          Moisson des Âmes 2, Lien Noir           | 4             | 4      | 3      | 2      |        |        |        |        |        |        |
+|   6    |        +3         |                  +2 à une carac                  | 4             | 4      | 3      | 3      |        |        |        |        |        |        |
+|   7    |        +3         |               Aptitude d'archétype               | 4             | 4      | 3      | 3      | 1      |        |        |        |        |        |
+|   8    |        +3         |                  +2 à une carac                  | 4             | 4      | 3      | 3      | 2      |        |        |        |        |        |
+|   9    |        +4         |         Moisson des Âmes 3, Lien Noir 2          | 4             | 4      | 3      | 3      | 3      | 1      |        |        |        |        |
+|   10   |        +4         |               Aptitude d'archétype               | 5             | 4      | 3      | 3      | 3      | 2      |        |        |        |        |
 |   11   |        +4         |                  Chair putride                   | 5             | 4      | 3      | 3      | 3      | 2      | 1      |        |        |        |
-|   12   |        +4         |                    +2 à une carac                    | 5             | 4      | 3      | 3      | 3      | 2      | 1      |        |        |        |
-|   13   |        +5         |           Moisson des Âmes 4, Lien Noir 3            | 5             | 4      | 3      | 3      | 3      | 2      | 1      | 1      |        |        |
+|   12   |        +4         |                  +2 à une carac                  | 5             | 4      | 3      | 3      | 3      | 2      | 1      |        |        |        |
+|   13   |        +5         |         Moisson des Âmes 4, Lien Noir 3          | 5             | 4      | 3      | 3      | 3      | 2      | 1      | 1      |        |        |
 |   14   |        +5         |         +2 à une carac, Chair putride 2          | 5             | 4      | 3      | 3      | 3      | 2      | 1      | 1      |        |        |
-|   15   |        +5         |                 Aptitude d'archétype                 | 5             | 4      | 3      | 3      | 3      | 2      | 1      | 1      | 1      |        |
-|   16   |        +5         |                    +2 à une carac                    | 5             | 4      | 3      | 3      | 3      | 2      | 1      | 1      | 1      |        |
+|   15   |        +5         |               Aptitude d'archétype               | 5             | 4      | 3      | 3      | 3      | 2      | 1      | 1      | 1      |        |
+|   16   |        +5         |                  +2 à une carac                  | 5             | 4      | 3      | 3      | 3      | 2      | 1      | 1      | 1      |        |
 |   17   |        +6         | Moisson des Âmes 5, Lien Noir 4, Chair putride 3 | 5             | 4      | 3      | 3      | 3      | 2      | 1      | 1      | 1      | 1      |
-|   18   |        +6         |                 Aptitude d'archétype                 | 5             | 4      | 3      | 3      | 3      | 3      | 1      | 1      | 1      | 1      |
-|   19   |        +6         |                    +2 à une carac                    | 5             | 4      | 3      | 3      | 3      | 3      | 2      | 1      | 1      | 1      |
+|   18   |        +6         |               Aptitude d'archétype               | 5             | 4      | 3      | 3      | 3      | 3      | 1      | 1      | 1      | 1      |
+|   19   |        +6         |                  +2 à une carac                  | 5             | 4      | 3      | 3      | 3      | 3      | 2      | 1      | 1      | 1      |
 |   20   |        +6         |                 Chair putride 4                  | 5             | 4      | 3      | 3      | 3      | 3      | 2      | 2      | 1      | 1      |
 
 ## Points de vie
@@ -224,12 +224,12 @@ Vous perdez la moitié de vos PV actuels (arrondi au supérieur, minimum 1), et 
 
 La Magie de la Mort est l'art de commander aux morts-vivants, de manipuler les cadavres et d'exploiter l'énergie résiduelle des défunts.
 
-| Niveau | Aptitude                   |
-|--------|:---------------------------|
-| 3      | Horreur d'os               |
-| 7      | Fétide de mort             |
-| 10     | Golem de chair             |
-| 15     | Nova de mort               |
+| Niveau | Aptitude         |
+|--------|:-----------------|
+| 3      | Horreur d'os     |
+| 7      | Fétide de mort   |
+| 10     | Golem de chair   |
+| 15     | Nova de mort     |
 | 18     | Aura de la Liche |
 
 #### Horreur d'os
