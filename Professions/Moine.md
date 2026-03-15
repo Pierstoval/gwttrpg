@@ -235,13 +235,13 @@ Lorsque l'allié est à moins de 30 mètres, les effets actifs sont les suivants
 
 Les Prières de Châtiment canalisent la colère divine pour punir les ennemis et rendre justice. Le Moine vengeur ne se contente pas d'infliger des dégâts radiants : il juge, marque, et retourne les forces de l'ennemi contre lui-même. Hors combat, sa connexion avec Balthazar en fait un détective divin et un protecteur implacable.
 
-| Niveau | Aptitude             |
-|--------|:---------------------|
-| 3      | Sceau du jugement    |
-| 7      | Clairvoyance du juge |
-| 10     | Guérison néfaste     |
-| 15     | Intervention du juge |
-| 18     | Balance de Balthazar |
+| Niveau | Aptitude               |
+|--------|:-----------------------|
+| 3      | Sceau du jugement      |
+| 7      | Clairvoyance du juge   |
+| 10     | Guérison néfaste       |
+| 15     | Intervention du juge   |
+| 18     | Balancier de Balthazar |
 
 #### Sceau du jugement
 
@@ -277,7 +277,7 @@ Utilisable une fois entre deux repos longs.
 
 **Hors combat :** peut être utilisé pour protéger un allié d'un piège mortel ou d'un effondrement, en dirigeant l'énergie destructrice vers la source (le mécanisme du piège est détruit, la structure instable s'effondre dans une autre direction).
 
-#### Balance de Balthazar
+#### Balancier de Balthazar
 
 Lorsqu'un allié à moins de 18 mètres est affecté par l'une des conditions suivantes : assourdi, aveuglé, charmé, effrayé, empoisonné, entravé, étourdi ou paralysé, vous pouvez utiliser votre réaction pour transférer cette condition à la créature qui l'a infligée. L'allié est immédiatement libéré de la condition, et la source doit effectuer un JS SAG (DD de sauvegarde de vos sorts) : en cas d'échec, elle subit sa propre condition pour la même durée restante. En cas de réussite, la condition est simplement annulée (l'allié en est quand même libéré).
 
