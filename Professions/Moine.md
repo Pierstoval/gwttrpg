@@ -233,57 +233,57 @@ Lorsque l'allié est à moins de 30 mètres, les effets actifs sont les suivants
 
 ### Prières de châtiment
 
-Les Prières de Châtiment canalisent la colère divine pour punir les ennemis. Le Moine vengeur inflige des dégâts
-radiants, rétribue les agresseurs et mêle offense divine et soutien du groupe.
+Les Prières de Châtiment canalisent la colère divine pour punir les ennemis et rendre justice. Le Moine vengeur ne se contente pas d'infliger des dégâts radiants : il juge, marque, et retourne les forces de l'ennemi contre lui-même. Hors combat, sa connexion avec Balthazar en fait un détective divin et un protecteur implacable.
 
-| Niveau | Aptitude                |
-|--------|:------------------------|
-| 3      | Frappe du juge          |
-| 7      | Bénédiction de la force |
-| 10     | Châtiment divin         |
-| 15     | Colère de Balthazar     |
-| 18     | Rétribution sacrée      |
+| Niveau | Aptitude             |
+|--------|:---------------------|
+| 3      | Sceau du jugement    |
+| 7      | Clairvoyance du juge |
+| 10     | Guérison néfaste     |
+| 15     | Intervention du juge |
+| 18     | Balance de Balthazar |
 
-#### Frappe du juge
+#### Sceau du jugement
 
-Lorsque vous touchez une créature avec une attaque au corps-à-corps ou un sort infligeant des dégâts, vous pouvez
-ajouter 1d6 dégâts radiants supplémentaires. Ces dégâts passent à 2d6 au niveau 7, 3d6 au niveau 13 et 4d6 au
-niveau 18.
+Au prix d'une action bonus, vous inscrivez un sceau divin sur une créature que vous pouvez voir à moins de 18 mètres. Le sceau est invisible et persiste 1 minute. À tout moment pendant cette durée, vous pouvez dépenser votre **réaction** pour déclencher le sceau : la créature subit 2d8 dégâts radiants et doit réussir un JS CON (DD de sauvegarde de vos sorts) sous peine d'être étourdie jusqu'à la fin de son prochain tour. Les dégâts passent à 3d8 au niveau 10 et 4d8 au niveau 15.
 
-Vous pouvez utiliser cette aptitude un nombre de fois égal à votre modificateur de Sagesse (minimum 1) entre deux repos
-courts.
+Vous pouvez avoir un nombre de sceaux actifs simultanément égal à la moitié de votre modificateur de Sagesse (arrondi au supérieur, minimum 1).
 
-#### Bénédiction de la force
+Vous pouvez utiliser cette aptitude un nombre de fois égal à votre modificateur de Sagesse (minimum 1) entre deux repos courts.
 
-Au prix d'une action bonus, vous bénissez l'arme d'un allié que vous pouvez voir à moins de 9 mètres (ou votre propre arme)
-pendant 1 minute (concentration). L'arme bénie inflige des dégâts radiants supplémentaires égaux à votre modificateur
-de Sagesse à chaque attaque réussie, et est considérée comme magique pour ce qui est de surmonter les résistances et
-immunités.
+**Hors combat :** le sceau peut être placé sur un objet ou une surface comme piège divin (8 heures de persistance). Une créature qui touche l'objet scellé déclenche automatiquement l'effet. Utile pour protéger un campement, un passage, ou un objet sacré.
 
-Vous pouvez utiliser cette aptitude un nombre de fois égal à la moitié de votre modificateur de Sagesse (arrondi au
-supérieur, minimum 1) entre deux repos longs.
+#### Clairvoyance du juge
 
-#### Châtiment divin
+Vos sorts et attaques infligeant des dégâts radiants ignorent la résistance aux dégâts radiants, et traitent l'immunité aux dégâts radiants comme une simple résistance.
 
-Une fois entre deux repos courts, lorsqu'un allié à moins de 18 mètres de vous subit des dégâts d'une créature que vous
-pouvez voir, vous pouvez utiliser votre réaction pour infliger à l'agresseur des dégâts radiants égaux aux dégâts subis
-par votre allié (maximum 4d8 + votre modificateur de Sagesse). L'agresseur doit également réussir un JS CON (DD = DD de
-sauvegarde de vos sorts) sous peine d'être aveuglé jusqu'à la fin de son prochain tour.
+De plus, vous pouvez percevoir l'alignement moral des créatures que vous observez. En vous concentrant sur une créature pendant 1 round (action), vous discernez si elle a commis un acte de violence contre un innocent au cours des dernières 24 heures, si elle est sous l'influence d'un enchantement ou d'une possession, ou si elle ment délibérément. Cette perception se manifeste comme une aura colorée visible uniquement par vous.
 
-#### Colère de Balthazar
+**Hors combat :** outil d'enquête et de diplomatie. Détecter un menteur dans une cour royale, identifier le coupable d'un crime, repérer un allié possédé par une entité. Fait du Moine de châtiment un "détective divin".
 
-Une fois entre deux repos longs, au prix d'une action, vous invoquez la fureur du dieu de la guerre. Pendant 1 minute
-(concentration), une aura de flammes divines vous entoure dans un rayon de 3 mètres. Toute créature hostile qui
-commence son tour dans l'aura ou y entre pour la première fois subit 3d8 dégâts radiants (JS DEX pour la moitié).
-De plus, vos sorts qui infligent des dégâts radiants infligent un dé de dégâts supplémentaire.
+#### Guérison néfaste
 
-#### Rétribution sacrée
+Au prix d'une action bonus, vous maudissez une créature que vous pouvez voir à moins de 18 mètres pendant 1 minute (concentration). Tant que la malédiction est active, chaque fois que la créature maudite regagne des PV (par un sort, une potion, une régénération, ou tout autre effet), la quantité de PV regagnés est réduite de moitié, et vous ou un allié de votre choix à moins de 18 mètres regagnez un nombre de PV égal à la moitié soustraite.
 
-*Active, une fois par jour.* Au prix d'une action, vous marquez un nombre de créatures hostiles que vous pouvez voir égal à votre
-modificateur de Sagesse (minimum 2), toutes à moins de 18 mètres. Pendant 1 minute (concentration), chaque fois qu'une
-créature marquée inflige des dégâts à vous ou à un allié, elle subit immédiatement des dégâts radiants égaux à la
-moitié des dégâts qu'elle a infligés. Si une créature marquée est réduite à 0 PV, l'énergie divine libérée soigne
-l'allié le plus proche de 2d8 + votre modificateur de Sagesse PV.
+Vous pouvez utiliser cette aptitude un nombre de fois égal à votre modificateur de Sagesse (minimum 1) entre deux repos longs.
+
+**Hors combat :** vous pouvez détecter les sources de guérison magique dans un rayon de 30 mètres (vous percevez un écho de la malédiction lorsqu'une créature est soignée à proximité). Utile pour repérer un guérisseur ennemi caché, une source de guérison naturelle, ou un artefact de régénération.
+
+#### Intervention du juge
+
+Lorsqu'un allié à moins de 18 mètres que vous pouvez voir subirait des dégâts qui le réduiraient à 0 PV, vous pouvez utiliser votre réaction pour annuler intégralement ces dégâts. L'allié reste à ses PV actuels (avant les dégâts). Simultanément, la source des dégâts subit des dégâts radiants égaux au double des dégâts annulés (maximum 10d8). Si la source est une créature, elle doit également réussir un JS SAG (DD de sauvegarde de vos sorts) sous peine d'être aveuglée et effrayée pendant 1 minute (JS SAG à la fin de chacun de ses tours pour mettre fin aux deux effets).
+
+Utilisable une fois entre deux repos longs.
+
+**Hors combat :** peut être utilisé pour protéger un allié d'un piège mortel ou d'un effondrement, en dirigeant l'énergie destructrice vers la source (le mécanisme du piège est détruit, la structure instable s'effondre dans une autre direction).
+
+#### Balance de Balthazar
+
+Lorsqu'un allié à moins de 18 mètres est affecté par l'une des conditions suivantes : assourdi, aveuglé, charmé, effrayé, empoisonné, entravé, étourdi ou paralysé, vous pouvez utiliser votre réaction pour transférer cette condition à la créature qui l'a infligée. L'allié est immédiatement libéré de la condition, et la source doit effectuer un JS SAG (DD de sauvegarde de vos sorts) : en cas d'échec, elle subit sa propre condition pour la même durée restante. En cas de réussite, la condition est simplement annulée (l'allié en est quand même libéré).
+
+Vous pouvez utiliser cette aptitude un nombre de fois égal à votre modificateur de Sagesse (minimum 1) entre deux repos longs.
+
+**Hors combat :** peut être utilisé sur des malédictions persistantes. Si un allié est maudit par un artefact ou un lieu, vous pouvez tenter de renvoyer la malédiction à sa source originelle (le créateur de l'artefact, l'esprit qui hante le lieu), ce qui peut briser la malédiction ou révéler l'identité de son auteur.
 
 </td>
 
