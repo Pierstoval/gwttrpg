@@ -1,0 +1,652 @@
+---
+layout: layout
+---
+
+# Chronologie
+
+<table>
+   <tbody>
+      <tr >
+         <th>Calendrier mouvélien</th>
+         <th>Calendrier de Canthan</th>
+         <th>Règlement de comptes dynastique</th>
+         <th>Tyrie</th>
+         <th>Cantha</th>
+         <th>Elona</th>
+      </tr>
+      <tr>
+         <th>1080 AE</th>
+         <th>1590 cm3</th>
+         <th>1280 DR</th>
+         <td>L' Avant-garde d'Ébène se retire du nord et fortifie Ebonhawke .</td>
+         <td>
+            Aujourd'hui, durant les derniers événements de « Vents du changement » .
+            <p>Ashu prend le contrôle du Ministère de la Pureté .</p>
+         </td>
+         <td>&nbsp;</td>
+      </tr>
+      <tr>
+         <th>1079 AE</th>
+         <th>1589 CC</th>
+         <th>1279 DR</th>
+         <td>
+            De nos jours, durant la Guerre de Kryta et les événements de Hearts of the North .
+            <p>La guerre civile kryptonienne prend fin.</p>
+         </td>
+         <td>
+            Aujourd'hui, durant les précédents événements de « Vents du changement » .
+            <p>Le ministère de la Pureté entame la phase finale de l'élimination des Affligés de Cantha.</p>
+         </td>
+         <td>&nbsp;</td>
+      </tr>
+      <tr>
+         <th>1078 AE</th>
+         <th>1588 cm³</th>
+         <th>1278 DR</th>
+         <td>
+            Aujourd'hui dans <i>Guild Wars Eye of the North</i> .
+            <p>Des séismes secouent la Tyrie, provoqués par le Grand Destructeur . Les Asuras apparaissent à la surface. Les Norns interagissent avec les races du sud. Les Charrs entament une guerre civile, déclenchée par la rébellion de Pyre Fierceshot . La transformation des Nains . Primordus , le Dragon Ancestral , s'agite mais ne s'éveille pas.</p>
+         </td>
+         <td>&nbsp;</td>
+         <td>&nbsp;</td>
+      </tr>
+      <tr>
+         <th>1077 AE</th>
+         <th>1587 CC</th>
+         <th>1277 DR</th>
+         <td>&nbsp;</td>
+         <td>La ministre Reiko Murakami crée officiellement le ministère de la Pureté.</td>
+         <td>&nbsp;</td>
+      </tr>
+      <tr>
+         <th>1076 AE</th>
+         <th>1586 cm³</th>
+         <th>1276 DR</th>
+         <td>Pyre Fierceshot mène sa bande de guerre dans une rébellion contre la caste des chamans .</td>
+         <td>&nbsp;</td>
+         <td>&nbsp;</td>
+      </tr>
+      <tr>
+         <th>1075 AE</th>
+         <th>1585 cm³</th>
+         <th>1275 DR</th>
+         <td>&nbsp;</td>
+         <td>&nbsp;</td>
+         <td>
+            Aujourd'hui dans <i>Guild Wars Nightfall</i> .
+            <p>La nuit tombe et la Déesse de la Vérité accède au statut de déesse.</p>
+            <p>Palawa Joko est libéré de prison.</p>
+         </td>
+      </tr>
+      <tr>
+         <th>1073 AE</th>
+         <th>1583 cm³</th>
+         <th>1273 DR</th>
+         <td>&nbsp;</td>
+         <td>Reiko Murakami, en tant que membre du Ministère de la Flamme , commence à rallier le peuple de Cantha contre les Affligés .</td>
+         <td>&nbsp;</td>
+      </tr>
+      <tr>
+         <th>1072 AE</th>
+         <th>1582 cm³</th>
+         <th>1272 DR</th>
+         <td>
+            Aujourd'hui dans <i>Guild Wars Prophecies</i> .
+            <p>Des réfugiés ascaloniens fuient vers Kryta . Le Liche mort-vivant tente d'ouvrir la Porte de Komalie .</p>
+         </td>
+         <td>
+            Aujourd'hui dans <i>Guild Wars Factions</i> .
+            <p>Maître Togo convoque Mhenlo au monastère de Shing Jea .</p>
+            <p>Shiro déchaîne la peste à Cantha.</p>
+         </td>
+         <td>&nbsp;</td>
+      </tr>
+      <tr>
+         <th rowspan="2">1071 AE</th>
+         <th rowspan="2">1581 CC</th>
+         <th rowspan="2">1271 DR</th>
+         <td colspan="2">La reprise des échanges commerciaux entre Cantha et les royaumes tyriens dévastés a été officialisée par le second traité de l' Arche du Lion .</td>
+         <td>&nbsp;</td>
+      </tr>
+      <tr>
+         <td>
+            Orr est engloutie par le Cataclysme .
+            <p>La Baie des Sirènes est rebaptisée Mer des Chagrins suite à une augmentation du nombre de naufrages.</p>
+         </td>
+         <td>Après 191 ans de combats, les guerres Tengu prennent fin.</td>
+         <td>&nbsp;</td>
+      </tr>
+      <tr>
+         <th>1070 AE</th>
+         <th>1580 cm3</th>
+         <th>1270 DR</th>
+         <td>
+            Aujourd'hui, avant la Séparation .
+            <p>L' invasion des Charrs et le Fléau ravagent Ascalon, mettant fin aux Guerres des Guildes .</p>
+            <p>Le Manteau Blanc prend le contrôle de Kryta.</p>
+         </td>
+         <td>&nbsp;</td>
+         <td>&nbsp;</td>
+      </tr>
+      <tr>
+         <th rowspan="2">1067 AE</th>
+         <th rowspan="2">1577 CC</th>
+         <th rowspan="2">1267 DR</th>
+         <td colspan="2">Mhenlo est le dernier Tyrien à avoir obtenu son diplôme du monastère de Shing Jea .</td>
+         <td rowspan="2">&nbsp;</td>
+      </tr>
+      <tr>
+         <td>Date la plus ancienne donnée concernant l' existence du Manteau Blanc , et première année de l' Épreuve des Élus .</td>
+         <td>&nbsp;</td>
+      </tr>
+      <tr>
+         <th>1058 AE</th>
+         <th>1568 cm³</th>
+         <th>1258 DR</th>
+         <td>&nbsp;</td>
+         <td>Kintah meurt et son fils Kisu lui succède , devenant ainsi le 31e empereur de Cantha . La guerre ouverte entre les Luxons et les Kurzicks prend fin, laissant place à des escarmouches frontalières, et la guilde Xunlai commence à étendre son influence au-delà de Cantha.</td>
+         <td>&nbsp;</td>
+      </tr>
+      <tr>
+         <th>1022 AE</th>
+         <th>1532 CC</th>
+         <th>1222 DR</th>
+         <td colspan="2">Ermenred d'Ascalon se rend à Cantha pour rencontrer l'empereur Kintah. Des routes commerciales informelles s'ouvrent entre les deux nations.</td>
+         <td>&nbsp;</td>
+      </tr>
+      <tr>
+         <th>1020 AE</th>
+         <th>1530 cm3</th>
+         <th>1220 DR</th>
+         <td>Surmia est fondée.</td>
+         <td>&nbsp;</td>
+         <td>&nbsp;</td>
+      </tr>
+      <tr>
+         <th>1017 AE</th>
+         <th>1527 cm³</th>
+         <th>1217 DR</th>
+         <td>&nbsp;</td>
+         <td>Les Luxons et les Kurzicks de Cantha mettent fin aux contacts diplomatiques officiels, ne communiquant entre eux qu'en cas de besoin (et presque toujours par l'intermédiaire des liaisons officielles du Ministère Céleste ).</td>
+         <td>&nbsp;</td>
+      </tr>
+      <tr>
+         <th>1016 AE</th>
+         <th>1526 cm³</th>
+         <th>1216 DR</th>
+         <td>&nbsp;</td>
+         <td>&nbsp;</td>
+         <td>
+            La seconde grande guerre des corsaires s'achève par la défaite de l'armada de Lady Glaive face au maréchal Matoha .
+            <p>Istan s'est imposée comme puissance maritime.</p>
+         </td>
+      </tr>
+      <tr>
+         <th>1013 AE</th>
+         <th>1523 cm³</th>
+         <th>1213 DR</th>
+         <td>La troisième guerre des guildes commence en Tyrie.</td>
+         <td>&nbsp;</td>
+         <td>&nbsp;</td>
+      </tr>
+      <tr>
+         <th>982 AE</th>
+         <th>1492 CC</th>
+         <th>1182 DR</th>
+         <td>&nbsp;</td>
+         <td>&nbsp;</td>
+         <td>La seconde grande guerre des corsaires commence.</td>
+      </tr>
+      <tr>
+         <th>972 AE</th>
+         <th>1482 CC</th>
+         <th>1172 DR</th>
+         <td>&nbsp;</td>
+         <td>Juedo invoqua le démon  Mang .</td>
+         <td>&nbsp;</td>
+      </tr>
+      <tr>
+         <th>940 AE</th>
+         <th>1450 cm3</th>
+         <th>1140 DR</th>
+         <td colspan="3">L'ambassade de Cantha a officiellement fermé ses portes à Ascalon et à Elona. L'activité des corsaires s'en trouve accrue.</td>
+      </tr>
+      <tr>
+         <th>902 AE</th>
+         <th>1412 CC</th>
+         <th>1102 DR</th>
+         <td colspan="2">Les accords commerciaux de longue date entre les royaumes tyriens et l'empire canthas furent dissous par décret impérial.</td>
+         <td>&nbsp;</td>
+      </tr>
+      <tr>
+         <th>900 AE</th>
+         <th>1410 cm3</th>
+         <th>1100 DR</th>
+         <td>&nbsp;</td>
+         <td>&nbsp;</td>
+         <td>La marchande prospère Amaki Voss s'établit comme maréchale du clan à vie de la ville de Makuun , devenant ainsi le premier « prince » de Vabbi .</td>
+      </tr>
+      <tr>
+         <th>899 AE</th>
+         <th>1409 CC</th>
+         <th>1099 DR</th>
+         <td>&nbsp;</td>
+         <td>&nbsp;</td>
+         <td>Grande forteresse de Jahai établie à la Grande Cataracte .</td>
+      </tr>
+      <tr>
+         <th>898 AE</th>
+         <th>1408 cm³</th>
+         <th>1098 DR</th>
+         <td>Le Grand Mur du Nord est érigé.</td>
+         <td>&nbsp;</td>
+         <td>&nbsp;</td>
+      </tr>
+      <tr>
+         <th>886 AE</th>
+         <th>1396 cm³</th>
+         <th>1086 DR</th>
+         <td>&nbsp;</td>
+         <td>Les habitants de Courthouse Square obtiennent gain de cause auprès du Ministère Céleste pour que le quartier soit rebaptisé Vizunah Square en l'honneur de Vizu pour ses efforts contre Shiro Tagachi.</td>
+         <td>&nbsp;</td>
+      </tr>
+      <tr>
+         <th>880 AE</th>
+         <th>1390 cm3</th>
+         <th>1080 DR</th>
+         <td>&nbsp;</td>
+         <td>L'hostilité des Tengu s'accroît . Une guerre ouverte avec les Angchu Tengu est évitée grâce aux efforts de l'ambassadeur personnel de l'empereur Hanjai . Les Tengu Sensali accusent les Angchu de trahison.</td>
+         <td>&nbsp;</td>
+      </tr>
+      <tr>
+         <th>874 AE</th>
+         <th>1384 CC</th>
+         <th>1074 DR</th>
+         <td>&nbsp;</td>
+         <td>&nbsp;</td>
+         <td>Istan et Vabbi rétablissent leurs maréchaux de clan . Kourna conserve son maréchal de guerre , Kunai Ossa . Bien que Kunai Ossa refuse la couronne dynastique, tous les maréchaux de guerre de Kourna appartiennent au clan Ossa.</td>
+      </tr>
+      <tr>
+         <th rowspan="2">872 AE</th>
+         <th rowspan="2">1382 CC</th>
+         <th rowspan="2">1072 DR</th>
+         <td>&nbsp;</td>
+         <td>Shiro Tagachi périt au Temple des Moissons de Cantha après avoir tué l'empereur Angsiyan . La lignée se perpétue lorsque son fils, l'empereur Hanjai (arrière-arrière-grand-père de Kisu), accède au trône. <br>
+            Début de l' Ère du Dragon .
+         </td>
+         <td>&nbsp;</td>
+      </tr>
+      <tr>
+         <td colspan="3">Les diplomates canthiens en poste dans les royaumes du nord retournent à Cantha et le commerce décline en raison de l'augmentation des attaques de pirates.</td>
+      </tr>
+      <tr>
+         <th>870 AE</th>
+         <th>1380 cm3</th>
+         <th>1070 DR</th>
+         <td>La Bande de Guerre Brûlée , appartenant à la Légion de la Flamme , découvre les Titans au volcan Hrangmer et les déclare divinités.</td>
+         <td>&nbsp;</td>
+         <td>&nbsp;</td>
+      </tr>
+      <tr>
+         <th>868 AE</th>
+         <th>1378 cm³</th>
+         <th>1068 DR</th>
+         <td>&nbsp;</td>
+         <td>&nbsp;</td>
+         <td>Turai Ossa conduit le Grand Pèlerinage dans le Désert de Cristal .</td>
+      </tr>
+      <tr>
+         <th>865 AE</th>
+         <th>1375 cm³</th>
+         <th>1065 DR</th>
+         <td>&nbsp;</td>
+         <td>Shiro Tagachi déjoue un coup d'État au Ministère Céleste en exposant les têtes des rebelles devant les bureaux du Ministère.</td>
+         <td>&nbsp;</td>
+      </tr>
+      <tr>
+         <th>862 AE</th>
+         <th>1372 CC</th>
+         <th>1062 DR</th>
+         <td>&nbsp;</td>
+         <td>&nbsp;</td>
+         <td>Turai Ossa bat Palawa Joko à la bataille de Jahai . L' Ordre des Murmures scelle Palawa Joko.</td>
+      </tr>
+      <tr>
+         <th>860 AE</th>
+         <th>1370 cm3</th>
+         <th>1060 DR</th>
+         <td>Nolani est fondée.</td>
+         <td>&nbsp;</td>
+         <td>Palawa Joko envahit Elona, ​​s'empare de la majeure partie de la province du Nord et gagne le surnom de « Fléau de Vabbi ».</td>
+      </tr>
+      <tr>
+         <th>858 AE</th>
+         <th>1368 cm³</th>
+         <th>1058 DR</th>
+         <td>&nbsp;</td>
+         <td>Shiro est célèbre pour avoir vaincu un groupe d' Am Fah , décapité leur chef et exécuté tous ceux qui se sont rendus.</td>
+         <td>&nbsp;</td>
+      </tr>
+      <tr>
+         <th>851 AE</th>
+         <th>1361 CC</th>
+         <th>1051 DR</th>
+         <td colspan="3">Lord Odran devient le premier mortel à pénétrer dans la Faille .</td>
+      </tr>
+      <tr>
+         <th>825 AE</th>
+         <th>1335 cm³</th>
+         <th>1025 DR</th>
+         <td>Le roi fou Thorn et la Cour des fous sont tués lors d'une rébellion.</td>
+         <td>&nbsp;</td>
+         <td>&nbsp;</td>
+      </tr>
+      <tr>
+         <th>774 AE</th>
+         <th>1284 cm³</th>
+         <th>974 DR</th>
+         <td>&nbsp;</td>
+         <td>L'empereur Senvho meurt sur le nouveau trône du palais de Raisu .</td>
+         <td>&nbsp;</td>
+      </tr>
+      <tr>
+         <th>772 AE</th>
+         <th>1282 cm³</th>
+         <th>972 DR</th>
+         <td>&nbsp;</td>
+         <td>Dinfang est attaqué par l'armada naitahlen menée par Appollonia , qui est vaincue par Kitah et son escadron.</td>
+         <td>&nbsp;</td>
+      </tr>
+      <tr>
+         <th>757 AE</th>
+         <th>1267 cm³</th>
+         <th>957 DR</th>
+         <td>&nbsp;</td>
+         <td>&nbsp;</td>
+         <td>Palawa Joko construit son Palais d'Os dans la Désolation .</td>
+      </tr>
+      <tr>
+         <th>712 AE</th>
+         <th>1222 CC</th>
+         <th>912 DR</th>
+         <td>&nbsp;</td>
+         <td>&nbsp;</td>
+         <td>Première des Grandes Guerres Corsaires.</td>
+      </tr>
+      <tr>
+         <th>694 AE</th>
+         <th>1204 cm3</th>
+         <th>894 DR</th>
+         <td>&nbsp;</td>
+         <td>L' empereur Singtah, tristement célèbre pour sa cruauté, est brûlé vif dans le premier palais Raisu. Son fils, Senvho, entreprend la construction du second palais Raisu. Début de l' ère de la Tortue .</td>
+         <td>&nbsp;</td>
+      </tr>
+      <tr>
+         <th>640 AE</th>
+         <th>1150 cm3</th>
+         <th>840 DR</th>
+         <td>&nbsp;</td>
+         <td>&nbsp;</td>
+         <td>Les dernières dynasties brisées s'effondrent. Elona émerge sous la forme de trois provinces alliées&nbsp;: Kourna, Istan et Vabbi.</td>
+      </tr>
+      <tr>
+         <th>583 AE</th>
+         <th>1093 cm³</th>
+         <th>783 DR</th>
+         <td>&nbsp;</td>
+         <td>&nbsp;</td>
+         <td>Effondrement de la Grande Dynastie . Début des Guerres des Prétendants et de l' Ère des Dynasties Brisées .</td>
+      </tr>
+      <tr>
+         <th>572 AE</th>
+         <th>1082 cm³</th>
+         <th>772 DR</th>
+         <td>&nbsp;</td>
+         <td>Magadore tente de siphonner la vie des forêts de Cantha et est tué par l'armée animale de Zojun .</td>
+         <td>&nbsp;</td>
+      </tr>
+      <tr>
+         <th>534 AE</th>
+         <th>1044 CC</th>
+         <th>734 DR</th>
+         <td>Lornar repousse à lui seul une grande invasion de géants des collines dans le col de Lornar .</td>
+         <td>&nbsp;</td>
+         <td>&nbsp;</td>
+      </tr>
+      <tr>
+         <th>520 AE</th>
+         <th>1030 cm3</th>
+         <th>720 DR</th>
+         <td>&nbsp;</td>
+         <td>&nbsp;</td>
+         <td>Premières nouvelles implantations dans les îles Istan.</td>
+      </tr>
+      <tr>
+         <th>456 AE</th>
+         <th>966 cm³</th>
+         <th>656 DR</th>
+         <td>&nbsp;</td>
+         <td>&nbsp;</td>
+         <td>Fin des années de peste. Admun Kolos accède au trône et fonde la Grande Dynastie.</td>
+      </tr>
+      <tr>
+         <th>452 AE</th>
+         <th>962 cm³</th>
+         <th>652 DR</th>
+         <td>&nbsp;</td>
+         <td>&nbsp;</td>
+         <td>La peste des scarabées ravage Elona, ​​décime la population et anéantit la Maison royale. Istan est abandonnée. Fin des Rois Primordiaux .</td>
+      </tr>
+      <tr>
+         <th>372 AE</th>
+         <th>882 CC</th>
+         <th>572 DR</th>
+         <td>&nbsp;</td>
+         <td>Karei est approché par Dwayna et nommé maître du monastère de Kaziin .</td>
+         <td>&nbsp;</td>
+      </tr>
+      <tr>
+         <th>358 AE</th>
+         <th>868 CC</th>
+         <th>558 DR</th>
+         <td>Kryta devient une nation indépendante.</td>
+         <td>&nbsp;</td>
+         <td>&nbsp;</td>
+      </tr>
+      <tr>
+         <th>324 AE</th>
+         <th>834 CC</th>
+         <th>524 DR</th>
+         <td>&nbsp;</td>
+         <td>&nbsp;</td>
+         <td>Première mention d'activités corsaires organisées dans les archives dynastiques. Construction de monuments courante à Istan et Kourna.</td>
+      </tr>
+      <tr>
+         <th>300 AE</th>
+         <th>810 cm3</th>
+         <th>500 DR</th>
+         <td>Kryta s'est établie comme colonie d'Elona.</td>
+         <td>&nbsp;</td>
+         <td>&nbsp;</td>
+      </tr>
+      <tr>
+         <th>272 AE</th>
+         <th>782 cm³</th>
+         <th>472 DR</th>
+         <td>Glint compile les Prophéties du Chercheur de Flammes .</td>
+         <td>&nbsp;</td>
+         <td>&nbsp;</td>
+      </tr>
+      <tr>
+         <th rowspan="2">221 AE</th>
+         <th rowspan="2">731 CC</th>
+         <th rowspan="2">421 DR</th>
+         <td>&nbsp;</td>
+         <td>L'île de Shing Jea n'est plus exploitée pour le bois et entame sa reconversion agricole. Début de l' ère du hérisson .</td>
+         <td>&nbsp;</td>
+      </tr>
+      <tr>
+         <td colspan="3">Cantha entame des échanges commerciaux avec Tyrie, Elona et les régions du nord.</td>
+      </tr>
+      <tr>
+         <th>174 AE</th>
+         <th>684 cm³</th>
+         <th>374 DR</th>
+         <td colspan="3">Les Oubliés quittent le monde des hommes et s'installent dans le Désert de Cristal.</td>
+      </tr>
+      <tr>
+         <th>29 AE</th>
+         <th>539 CC</th>
+         <th>229 DR</th>
+         <td>&nbsp;</td>
+         <td>&nbsp;</td>
+         <td>Les Rois Primordiaux étendirent leur règne sur Vabbi et la Désolation, et commencèrent à enterrer leurs souverains défunts dans des tombeaux du Désert de Cristal.</td>
+      </tr>
+      <tr>
+         <th>2 AE</th>
+         <th>512 CC</th>
+         <th>202 DR</th>
+         <td>Orr devient une nation indépendante.</td>
+         <td>&nbsp;</td>
+         <td>&nbsp;</td>
+      </tr>
+      <tr>
+         <th>1 AE</th>
+         <th>511 CC</th>
+         <th>201 DR</th>
+         <td>La Garde du Roi est fondée.</td>
+         <td>Le prince Chang Hai , un moine guerrier  , devient le premier empereur ascendant de Cantha. Début de l' ère de la Chauve-souris .</td>
+         <td>&nbsp;</td>
+      </tr>
+      <tr>
+         <th>0 AE <br>
+            (Année 0)
+         </th>
+         <th>510 CC</th>
+         <th>200 DR</th>
+         <td colspan="3">Les dieux humains brisèrent les pierres de sang pour contrôler la magie. Le Désert de Cristal se forma et la Désolation fut créée. La civilisation margonite s'effondra. Chute d'Abaddon . L' Exode des dieux .</td>
+      </tr>
+      <tr>
+         <th rowspan="2">1 BE</th>
+         <th rowspan="2">509 CC</th>
+         <th rowspan="2">199 DR</th>
+         <td colspan="3">Les dieux humains confèrent la magie aux races de Tyrie.</td>
+      </tr>
+      <tr>
+         <td>&nbsp;</td>
+         <td>&nbsp;</td>
+         <td>Date des Écritures d' Abaddon .</td>
+      </tr>
+      <tr>
+         <th>45 BE</th>
+         <th>465 cm³</th>
+         <th>155 DR</th>
+         <td>Date des Écritures de Lyssa .</td>
+         <td>&nbsp;</td>
+         <td>&nbsp;</td>
+      </tr>
+      <tr>
+         <th>48 BE</th>
+         <th>462 cm³</th>
+         <th>152 DR</th>
+         <td>Date des Écritures de Balthazar , Melandru et Grenth .</td>
+         <td>&nbsp;</td>
+         <td>&nbsp;</td>
+      </tr>
+      <tr>
+         <th rowspan="2">100 BE</th>
+         <th rowspan="2">410 cm3</th>
+         <th rowspan="2">100 DR</th>
+         <td colspan="2">Le nouveau roi d'Ascalon reçoit le premier ambassadeur cantharien.</td>
+      </tr>
+      <tr>
+         <td>Les établissements humains des hautes plaines prennent le nom d'Ascalon. Les humains chassent les Charrs d'Ascalon. Doric est couronné roi durant la Saison du Phénix à Ascalon.</td>
+         <td>&nbsp;</td>
+         <td>&nbsp;</td>
+      </tr>
+      <tr>
+         <th>115 BE</th>
+         <th>395 cm³</th>
+         <th>85 DR</th>
+         <td>Date des Écritures de Dwayna .</td>
+         <td>&nbsp;</td>
+         <td>&nbsp;</td>
+      </tr>
+      <tr>
+         <th>175 BE</th>
+         <th>335 cm³</th>
+         <th>25 DR</th>
+         <td>&nbsp;</td>
+         <td>&nbsp;</td>
+         <td>Des établissements margonites apparaissent le long des côtes au nord et à l'ouest d'Elona. Les navires margonites règnent sur l' Océan Infini .</td>
+      </tr>
+      <tr>
+         <th>200 BE</th>
+         <th>310 cm3</th>
+         <th>0 DR</th>
+         <td>&nbsp;</td>
+         <td>&nbsp;</td>
+         <td>Le premier des rois primordiaux règne sur Elona depuis la ville de Fahranur, en Istan. Début du calcul dynastique (CD).</td>
+      </tr>
+      <tr>
+         <th>205 BE</th>
+         <th>305 cm3</th>
+         <th>-5 DR</th>
+         <td>Des humains apparaissent sur le continent tyrien.</td>
+         <td>Début de l' ère du Faucon .</td>
+         <td>Des humains apparaissent sur les îles d'Istan et dans la vallée d'Elona.</td>
+      </tr>
+      <tr>
+         <th>459 BE</th>
+         <th>51 CC</th>
+         <th>-259 DR</th>
+         <td>&nbsp;</td>
+         <td>Les Kurzicks déclarent leur indépendance de Cantha et deviennent un clan vassal.</td>
+         <td>&nbsp;</td>
+      </tr>
+      <tr>
+         <th>462 BE</th>
+         <th>48 CC</th>
+         <th>-262 DR</th>
+         <td>&nbsp;</td>
+         <td>Les Luxons font officiellement sécession de l'Empire et deviennent un clan vassal.</td>
+         <td>&nbsp;</td>
+      </tr>
+      <tr>
+         <th>464 BE</th>
+         <th>46 CC</th>
+         <th>-264 DR</th>
+         <td>&nbsp;</td>
+         <td>L'empereur Kaineng Tah meurt dans des circonstances mystérieuses. Yian Zho monte sur le trône.</td>
+         <td>&nbsp;</td>
+      </tr>
+      <tr>
+         <th>510 BE</th>
+         <th>0 CC</th>
+         <th>-310 DR</th>
+         <td>&nbsp;</td>
+         <td>Les clans canthans s'unissent sous Kaineng Tah, premier Seigneur Empereur du Dragon. Début de la construction du premier palais Raisu. Début de l' ère du ouistiti .</td>
+         <td>&nbsp;</td>
+      </tr>
+      <tr>
+         <th>786 BE</th>
+         <th>Fin de l'époque pré-impériale</th>
+         <th>-586 DR</th>
+         <td>&nbsp;</td>
+         <td>Les humains apparaissent pour la première fois à Cantha et s'installent sur la côte nord avant de se répandre sur tout le continent. Leur développement n'est pas entravé par les Oubliés.</td>
+         <td>&nbsp;</td>
+      </tr>
+      <tr>
+         <th>1769 BE</th>
+         <th>Moyenne période pré-impériale</th>
+         <th>-1569 DR</th>
+         <td colspan="3">Les Oubliés arrivent en Tyrie.</td>
+      </tr>
+      <tr>
+         <th>10 000 BE</th>
+         <th>Début de l'ère pré-impériale</th>
+         <th>-9800 DR</th>
+         <td colspan="3">Les derniers Giganticus Lupicus , les Grands Géants, disparaissent du continent tyrien.</td>
+      </tr>
+   </tbody>
+</table>
