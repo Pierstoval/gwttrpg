@@ -1,0 +1,5 @@
+- https://www.gw-memorial.net/maps/presearing
+- https://wiki.guildwars.com/wiki/Ascalon_(pre-Searing)/Map
+- https://wiki.guildwars.com/wiki/Ascalon_(pre-Searing)
+- https://www.reddit.com/media?url=https%3A%2F%2Fpreview.redd.it%2Fexpanded-pre-searing-map-v0-rbcmdz99vgl41.jpg%3Fwidth%3D1200%26format%3Dpjpg%26auto%3Dwebp%26s%3Da235fd9e5d0cbeec55d52a6140fc1366a6b68ebb
+- https://www.reddit.com/r/GuildWars/comments/bx0olr/pre_searing_map_expansion/
