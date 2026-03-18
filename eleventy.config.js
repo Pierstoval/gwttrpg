@@ -5,7 +5,6 @@ export default function(eleventyConfig) {
     eleventyConfig.addPassthroughCopy("bundle.css");
     eleventyConfig.setOutputDirectory("docs");
     eleventyConfig.addPlugin(HtmlBasePlugin);
-    eleventyConfig.addPlugin(eleventyImageTransformPlugin);
 };
 
 export const config = {
