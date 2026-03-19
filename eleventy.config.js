@@ -1,5 +1,4 @@
 import { HtmlBasePlugin } from "@11ty/eleventy";
-import { eleventyImageTransformPlugin } from "@11ty/eleventy-img";
 
 export default function(eleventyConfig) {
     eleventyConfig.addPassthroughCopy("bundle.css");
@@ -8,5 +7,4 @@ export default function(eleventyConfig) {
 };
 
 export const config = {
-    pathPrefix: "/gwttrpg/",
 }
