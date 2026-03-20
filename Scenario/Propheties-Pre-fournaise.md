@@ -2,7 +2,7 @@
 layout: layout
 ---
 
-# Prophéties - Le calme avant la tempête
+# Prophéties - Prologue : Le calme avant la tempête
 
 Saison : automne
 Lieu : Ascalon
