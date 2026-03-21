@@ -1,0 +1,7 @@
+<script>
+    import mapImg from '$lib/assets/Pre-searing-annotated.png';
+</script>
+
+# Carte
+
+![Carte d'Ascalon]({mapImg})
