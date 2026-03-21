@@ -37,18 +37,21 @@ Dans l'idéal, l'ordre du scénario se déroule en trois temps :
 - La mission d'apaisement face aux royalistes (totalement optionnelle)
 - La découverte de Charrs au sud du Rempart, et les premières enquêtes jusqu'à officialiser la date de l'attaque contre les Charrs organisée par le Roi. Cette dernière partie est détaillée plus loin, dans la section "Feuilles".
 
+La première fois que les PJs entrent dans le Comté du Lac, des groupes de recrues seront en apprentissage autour de la cité. Ces groupes finiront par se disperser au fil des heures.
+
 ### Missions mineures
 
 - Gwen, une petite fille enjouée, cherche à retrouver sa flûte, perdue près de la rivière, car elle a eu peur d'une bande d'écailleux (qui peuvent être tués très facilement par les PJs vu que ceux-ci n'ont qu'1 PV). La flûte est cassée, mais un marchand d'Ascalon vend une flûte pour 10 Po. Si les PJs achètent une flûte pour Gwen, celle-ci leur offrira à chacun une pomme sucrée cuite de son panier, qui viennent du verger de Mary Malone dans la Vallée du Régent.
 - Le Baron Egan cherche à récupérer des Dards de Dévoreurs, car malgré leur présence habituelle, une nouvelle espèce venimeuse plus dangereuse est apparue. Le Duc Gaban cherche également des œufs pour ses besoins personnels.
 - Le Baron Egan a également besoin de récupérer le coffre scellé contenant les taxes royales, qui a été dérobé aux percepteurs par un groupe de bandits se cachant dans la faille de la colline du Comté du Lac. Si les PJs réussissent à se débarrasser des bandits, ils découvriront qu'ils sont royalistes, mandatés par la Comtesse Nadya, et ont volé d'autres affaires, parmi lesquelles un pendentif en diamant, qu'ils pourront utiliser plus tard (ou revendre...).
+- À Ashford, Alison la Tanneuse offrira 20 pièces d'or aux PJs s'ils leur ramènent une peau d'ours en très bon état, pour réaliser la grande houppelande du soldat Petit Thom.
 - Une conversation peut être aperçue à un moment donné entre Sandre Elek, son grand frère Orion Elek et Sire Tydus : Tydus a récemment exclu Orion de l'Académie pour son arrogance et son égoïsme, et Sandre le soupçonne de s'allier aux Royalistes. Si les PJs laissent la conversation se faire, Orion quittera la cité d'Ascalon pour tenter de rejoindre Ralena Tempête aux Cimes du Sorcier, dont il s'est apparemment entiché.
-- Namar, un Krytien fils d'un combattant de la guilde des Élus d'Ascalon, n'a plus de quoi payer son loyer, à force de soutenir la guilde de son père. Son propriétaire, Gelsan, un marchand en route pour Ashford, l'a menacé de payer des gardes pour l'exclure de la ville et l'exiler du royaume. Son ami Miller Upton, à Ashford, est l'un des rares sympathisants aux Krytiens, et acceptera de payer son actuel loyer, si Namar travaille pour lui en tant qu'apiculteur. Namar acceptera. Il reste à Ascalon pour protéger ses quelques affaires, il a peur que Gelsan ait payé des enfants pour lui extorquer ses rares biens.
-- Armin Saberlin attend que les joueurs soient niveau 2 pour lancer l'attaque contre les Charrs. Cette attaque mène à la scène de fin du scénario, mais les PJs ne doivent pas être au courant.
+- Namar, un Krytien fils d'un combattant de la guilde des Élus d'Ascalon, n'a plus de quoi payer son loyer, à force de soutenir la guilde de son père. Son propriétaire, Gelsan, un marchand en route pour Ashford, l'a menacé de payer des gardes pour l'exclure de la ville et l'exiler du royaume. Son ami meunier Upton, à Ashford, est l'un des rares sympathisants aux Krytiens, et acceptera de payer son actuel loyer, si Namar travaille pour lui en tant qu'apiculteur. Namar acceptera. Il reste à Ascalon pour protéger ses quelques affaires, il a peur que Gelsan ait payé des enfants pour lui extorquer ses rares biens.
 - Lieutenant Langmar (F) attend que les persos soient niveau 2, elle donnera quelques missions (bien payées) de reconnaissance ou de soutien dans les Terres du Nord :
     - Sauver fantassin Tate, caché dans les bois du nord, alors qu'il voulait lui-même en découdre avec les Charrs.
     - Comtesse Nadya, royaliste anti-Adelbern, a visiblement recruté beaucoup de bandits, et est en train de les réunir dans la Vallée du Régent. Il faut l'arrêter pour éviter le coup d'État.
-- Le Prince Rurik sera sur le Rempart en train d'organiser des troupes, et s'éclipsera à un moment pour discuter avec le Capitaine Osric, et si les PJs sont assez discrets, ils pourront l'entendre parler de sa fiancée Lady Althea, et demander de façon gênée à Osric de trouver un cadeau pour elle pour le mariage, Osric lui-même sera profondément gêné par une mission si peu militaire. Si les PJs sont assez motivés, ils pourront collaborer avec Osric (ou aller voir directement Lady Althea dans son théâtre en dehors de la cité) pour lui donner des présents. Parmi les cadeaux possibles, le pendentif repris aux bandits est parfait, mais ils trouveront également un énorme coquillage avec une perle sur la plage de la rivière à côté du moulin d'Ashford (là où se situent Devona et Miller Upton). Ils peuvent aussi voler une plume au Moa de Compétition de Pitney (qui pourra perdre une plume s'il est surpris) dans le village d'Ashford. Si les PJs donnent le cadeau à Osric, celui-ci leur donnera 10 Po et les expédiera. Si les PJs donnent le cadeau directement à Lady Althea au nom du Prince Rurik, celle-ci leur donnera 20 Po, avec un discours sur le fait que la guerre et le cœur sont liés, et toutes ces choses.
+- Armin Saberlin attend que les joueurs soient niveau 2 pour lancer l'attaque contre les Charrs. Cette attaque mène à la scène de fin du scénario, mais les PJs ne doivent pas être au courant.
+- Le Prince Rurik sera sur le Rempart en train d'organiser des troupes, et s'éclipsera à un moment pour discuter avec le Capitaine Osric, et si les PJs sont assez discrets, ils pourront l'entendre parler de sa fiancée Lady Althea, et demander de façon gênée à Osric de trouver un cadeau pour elle pour le mariage, Osric lui-même sera profondément gêné par une mission si peu militaire. Si les PJs sont assez motivés, ils pourront collaborer avec Osric (ou aller voir directement Lady Althea dans son théâtre en dehors de la cité) pour lui donner des présents. Parmi les cadeaux possibles, le pendentif repris aux bandits est parfait, mais ils trouveront également un énorme coquillage avec une perle sur la plage de la rivière à côté du moulin d'Ashford (là où se situent Devona et Upton). Ils peuvent aussi voler une plume au Moa de Compétition de Pitney (qui pourra perdre une plume s'il est surpris) dans le village d'Ashford. Si les PJs donnent le cadeau à Osric, celui-ci leur donnera 10 Po et les expédiera. Si les PJs donnent le cadeau directement à Lady Althea au nom du Prince Rurik, celle-ci leur donnera 20 Po, avec un discours sur le fait que la guerre et le cœur sont liés, et toutes ces choses.
 - Devona pourra demander aux PJs récupérer des informations sur les rumeurs lancées par Meerak le Scribe de l'Abbaye d'Ashford : celui-ci a rédigé un parchemin à donner à Armin Saberlin, de la guilde de l'Avant-Garde d'Ascalon, dans le but de prévenir la ville d'une vision de Dwayna que Meerak a reçue, et qui concerne l'avenir d'Ascalon et des Charrs (il s'agit en réalité d'une vision des Prophéties du Chercheur de la Flamme, édictées par la dragonne Brill). Faire passer le parchemin et faire taire les rumeurs d'apocalypse rassurera la population, et si les PJs réussissent, elle leur donnera 10 Po.
 
 ### Les Royalistes
@@ -106,23 +109,50 @@ Les personnages pré-Fournaise sont relativement optimistes, en pleine préparat
 
 - Prince Rurik: Fils d'Adelbern, lui-même descendant de Doric. Prétendant de Lady Althea.
 - Cynn: Née à Surmia d'une famille noble, élémentaliste prodige, un peu arrogante mais loyale à la couronne et à la défense d'Ascalon. En relation avec Mhenlo depuis son arrivée à Ascalon.
-- Sandre Elek
+- Sandre Elek, jeune soeur d'Orion Elek, ouvrière locale
 - Lieutenant Langmar (F)
-    - Officier de l'avant-garde d'Ébon, elle ne bosse qu'avec les gens expérimentés. Si les persos sont niveau 2, elle donnera quelques missions de reconnaissance ou de soutien
+    - Officier de l'avant-garde d'Ébon, elle ne bosse qu'avec les gens expérimentés. Si les persos sont niveau 2, et qu'ils n'ont pas encore contacté Armin Saberlin pour l'attaque contre les Charrs, elle donnera quelques missions de reconnaissance ou de soutien dans les Terres du Nord :
         - Sauver fantassin Tate, caché dans les bois du nord, alors qu'il voulait lui-même en découdre avec les Charrs.
-        - Comtesse Nadya, royaliste anti-Adelbern/
+        - Négocier (ou éliminer...) la Comtesse Nadya, royaliste anti-Adelbern, pour éviter qu'elle ne soulève un coup d'État.
+- Namar, ouvrier local, Krytien d'origine, mais Ascalonien depuis 3 générations, il subit encore beaucoup de racisme malgré tout.
+- Armin Saberlin, officier de l'Avant-garde d'Ascalon
 
 ### Domaine de Barradin
 
 - Duc Barradin
     - Descendant de Doric, père de Lady Althea
-- Petit Thom
+- Petit Thom, guerrier joufflu et moustachu, persuadé d'être un expert au combat à la hache, endetté auprès de plusieurs personnes, excellent combattant, mais couard et vite effrayé.
+- Riley, marchand local
 
 ### Comté du Lac
 
 - Duc Gaban
     - A embauché Fadden Hathorm pour récupérer des oeufs de dévoreurs, mais celui-ci a peur.
-- Devona
+- Entraîneurs de recrues:
+  - Haversdan : coordinateur de l'entraînement
+  - Van le guerrier
+  - Artémis la rôdeuse
+  - Howland l'élémentaliste
+  - Sebedoh l'envoûteuse
+  - Ciglo le moine
+  - Verata le nécromancien*
+- Trina Yunn, messagère entre le Fort Ranik et la Cité d'Ascalon (fait le trajet 2 fois par jour)
+- Marshall Richards, messager entre la Place des Fous et la Cité d'Ascalon (fait le trajet 2 fois par jour)
+- Annette Landru, messagère entre le domaine de Barradin et la Cité d'Ascalon (fait le trajet 2 à 3 fois par jour)
+
+### Ashford
+
+- Devona, dans le village d'Ashford, guerrière sérieuse, capitaine de l'Armée d'Ascalon et protectrice d'Ashford.
+- Familly Payce:
+  - Wilton Payce, prépare des vivres pour sa famille en vue de la guerre
+  - Ciena Payce, dans sa maison, s'occupe de sa fille
+  - Anne Payce, leur fille
+- Le meunier Upton, s'occupe du Moulin d'Ashford, connu pour être un ouvrier généreux
+- Angus Dirk, et sa femme Melly Dirk, des fermiers qui s'occupent d'Ashford, entre autres. Il rêve de devenir apiculteur.
+- Pitney, fermier d'Ashford également, se plaint souvent des vers géants qui l'empêchent de faire pousser du blé
+- Chantalle, troubadour, conteuse qui oscille entre les différentes localités d'Ascalon.
+- Alison la Tanneuse, prépare majoritairement des équipements de guerre.
+
 
 ### Guilde : Les Élus d'Ascalon
 
@@ -131,7 +161,7 @@ Membres actuels :
 - Roi Adelbern
 - Prince Rurik
 - Devona
-- Le père de Namar
+- Le père de Namar (nom inconnu)
 
 Anciens membres :
 
@@ -139,3 +169,15 @@ Anciens membres :
 - Mordakai, père de Devona, mort en 1052, assassiné par la guilde des Zélotes des Cimefroides lors de la Bataille de Kyhlo (ville aujourd'hui détruite, localisation inconnue).
 - Burian, moine soigneur, mort aux côtés de Mordakai pendant la Bataille de Kyhlo.
 - Agostin, père de Vanyi, a fui la guerre pour les Cimefroides pour protéger sa fille.
+
+### Guilde : L'Avant-Garde d'Ascalon
+
+Membres :
+
+- Prince Rurik
+- Lieutenant Langmar
+- Officier Armin Saberlin
+- Capitaine Ander Vent-Gris
+- Capitaine Osric
+- Capitaine Arne
+- Sergent Brannen
