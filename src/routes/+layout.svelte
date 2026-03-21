@@ -65,5 +65,7 @@
 </main>
 
 <style>
-
+	:global(td) {
+		vertical-align: top;
+	}
 </style>
