@@ -117,13 +117,6 @@ Les personnages pré-Fournaise sont relativement optimistes, en pleine préparat
 - Namar, ouvrier local, Krytien d'origine, mais Ascalonien depuis 3 générations, il subit encore beaucoup de racisme malgré tout.
 - Armin Saberlin, officier de l'Avant-garde d'Ascalon
 
-### Domaine de Barradin
-
-- Duc Barradin
-    - Descendant de Doric, père de Lady Althea
-- Petit Thom, guerrier joufflu et moustachu, persuadé d'être un expert au combat à la hache, endetté auprès de plusieurs personnes, excellent combattant, mais couard et vite effrayé.
-- Riley, marchand local
-
 ### Comté du Lac
 
 - Duc Gaban
@@ -143,7 +136,7 @@ Les personnages pré-Fournaise sont relativement optimistes, en pleine préparat
 ### Ashford
 
 - Devona, dans le village d'Ashford, guerrière sérieuse, capitaine de l'Armée d'Ascalon et protectrice d'Ashford.
-- Familly Payce:
+- Famille Payce:
   - Wilton Payce, prépare des vivres pour sa famille en vue de la guerre
   - Ciena Payce, dans sa maison, s'occupe de sa fille
   - Anne Payce, leur fille
@@ -153,6 +146,28 @@ Les personnages pré-Fournaise sont relativement optimistes, en pleine préparat
 - Chantalle, troubadour, conteuse qui oscille entre les différentes localités d'Ascalon.
 - Alison la Tanneuse, prépare majoritairement des équipements de guerre.
 
+### Comté des Vertes Vallées
+
+- Grazden le protecteur, moine taciturne et introverti, mais portant bien son nom de "protecteur"
+- Kasha Sang-Noir, nécromante de la magie du sang, curieuse et soutenante, mais préoccupée par un de ses anciens collègues, Oberan, qui a été exclu de "L'Ordre", et mène d'étranges expériences dans les Catacombes, à l'aide d'anciens étudiants de Kasha.
+- Maître de guerre Grast, préoccupé par une recrudescence de Gargouilles sortant des Catacombes et de Grawls à l'ouest du domaine de Barradin, particulièrement loyal envers Adelbern, obtus et direct.
+
+### Domaine de Barradin
+
+- Duc Barradin
+  - Descendant de Doric, père de Lady Althea
+- Petit Thom, guerrier joufflu et moustachu, persuadé d'être un expert au combat à la hache, endetté auprès de plusieurs personnes, excellent combattant, mais couard et vite effrayé.
+- Riley, marchand local
+
+### Vallée du Régent
+
+- Mary Malone, gérante du verger à pommes au sud de Fort Ranik
+- Ivor Oeil-de-Lynx, archer qui entraîne des recrues rôdeurs/rôdeuses en préparation de la chasse aux Charrs.
+- Maître Rôdeur Nente, archer, également entraîneur de recrues.
+- (jardin secret) Nicholas Sandford, aspirant voyageur élevant un Dolyak pour pouvoir faire un tour du monde, amoureux de Mary Malone mais trop timide, extrêmement généreux, assez secret.
+- (jardin secret) Professeur Yakkington, Dolyak ayant été récemment trouvé par Nicholas Sandford, abandonné, dans la Vallée du Voyageur, après les Basses-Terres de Diessa.
+
+## Guildes
 
 ### Guilde : Les Élus d'Ascalon
 
